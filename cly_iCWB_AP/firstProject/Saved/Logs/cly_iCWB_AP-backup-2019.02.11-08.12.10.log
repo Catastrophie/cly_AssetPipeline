@@ -1,0 +1,1361 @@
+﻿Log file open, 01/18/19 20:49:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: cly_iCWB_AP
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.280159
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.113s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="KiaLynn_Skye" -epicuserid=26a1740ef7ba42058c6a48be90758b2a -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.19-03.49.36:114][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.19-03.49.36:114][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.19-03.49.36:121][  0]LogHAL: Display: Platform has ~ 8 GB [8424574976 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.19-03.49.36:121][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.01.19-03.49.36:121][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.19-03.49.36:122][  0]LogInit: Computer: DESKTOP-4HEA2F2
+[2019.01.19-03.49.36:122][  0]LogInit: User: black
+[2019.01.19-03.49.36:122][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.19-03.49.36:122][  0]LogInit: High frequency timer resolution =2.250003 MHz
+[2019.01.19-03.49.36:122][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2019.01.19-03.49.36:122][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.19-03.49.36:122][  0]LogMemory: Process Physical Memory: 99.39 MB used, 99.39 MB peak
+[2019.01.19-03.49.36:122][  0]LogMemory: Process Virtual Memory: 90.84 MB used, 90.84 MB peak
+[2019.01.19-03.49.36:122][  0]LogMemory: Physical Memory: 5067.68 MB used,  2966.62 MB free, 8034.30 MB total
+[2019.01.19-03.49.36:122][  0]LogMemory: Virtual Memory: 4645.29 MB used,  2966.62 MB free, 134217728.00 MB total
+[2019.01.19-03.49.36:141][  0]LogInit: Using OS detected language (en-US).
+[2019.01.19-03.49.36:141][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.19-03.49.36:141][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.19-03.49.36:462][  0]LogStreaming: Display: Took  0.321s to InitEngineTextLocalization.
+[2019.01.19-03.49.36:462][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.19-03.49.36:504][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.19-03.49.36:504][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.19-03.49.36:713][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.19-03.49.36:713][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.19-03.49.36:761][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.01.19-03.49.36:761][  0]LogD3D11RHI:       4029/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.19-03.49.36:771][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.01.19-03.49.36:771][  0]LogD3D11RHI:       128/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.01.19-03.49.36:773][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.19-03.49.36:773][  0]LogD3D11RHI:       0/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.19-03.49.36:773][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.19-03.49.36:797][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.19-03.49.36:797][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2019.01.19-03.49.36:797][  0]LogWindows: EnumDisplayDevices:
+[2019.01.19-03.49.36:797][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.01.19-03.49.36:797][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.01.19-03.49.36:798][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.01.19-03.49.36:798][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.01.19-03.49.36:798][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.01.19-03.49.36:798][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.01.19-03.49.36:798][  0]LogD3D11RHI:   Driver Version: 388.73 (internal:23.21.13.8873, unified:388.73)
+[2019.01.19-03.49.36:798][  0]LogD3D11RHI:      Driver Date: 12-18-2017
+[2019.01.19-03.49.36:798][  0]LogRHI: Texture pool is 2820 MB (70% of 4029 MB)
+[2019.01.19-03.49.36:821][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.19-03.49.36:831][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.01.19-03.49.36:832][  0]LogShaderCompilers: Guid format shader working directory is -44 characters bigger than the processId version (../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Intermediate/Shaders/WorkingDirectory/13552/).
+[2019.01.19-03.49.36:832][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/black/AppData/Local/Temp/UnrealShaderWorkingDir/AF8D75EC440435DBDF32D68C39C934BF/'.
+[2019.01.19-03.49.37:090][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.19-03.49.37:101][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.19-03.49.37:112][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.19-03.49.37:122][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.19-03.49.37:134][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.19-03.49.37:145][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.19-03.49.37:156][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.19-03.49.37:168][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.19-03.49.37:173][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.19-03.49.37:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-03.49.37:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-03.49.37:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-03.49.37:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-03.49.37:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-03.49.37:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-03.49.37:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-03.49.37:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-03.49.37:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-03.49.37:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-03.49.37:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-03.49.37:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-03.49.37:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-03.49.37:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-03.49.37:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-03.49.37:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-03.49.37:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-03.49.37:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-03.49.37:247][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.19-03.49.37:303][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.19-03.49.37:303][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.19-03.49.37:324][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.19-03.49.37:324][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.19-03.49.37:335][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.19-03.49.37:358][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.19-03.49.37:380][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.19-03.49.37:395][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.19-03.49.37:403][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.19-03.49.37:403][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.19-03.49.37:457][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.19-03.49.37:457][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.19-03.49.37:457][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.19-03.49.38:092][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.19-03.49.38:158][  0]LogDerivedDataCache: Loaded boot cache 0.07s 87MB C:/Users/black/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.19-03.49.38:158][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/black/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.19-03.49.38:159][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.19-03.49.38:159][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.19-03.49.38:159][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.19-03.49.38:159][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.19-03.49.38:170][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.19-03.49.38:183][  0]LogDerivedDataCache: Using Local data cache path C:/Users/black/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.19-03.49.38:183][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.19-03.49.38:183][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.19-03.49.38:198][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.19-03.49.38:199][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.19-03.49.38:199][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.19-03.49.38:268][  0]LogAssetRegistry: FAssetRegistry took 0.0259 seconds to start up
+[2019.01.19-03.49.38:546][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.19-03.49.38:663][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.19-03.49.38:666][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.19-03.49.38:666][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.19-03.49.38:666][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.19-03.49.38:666][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.19-03.49.38:680][  0]LogNetVersion: cly_iCWB_AP 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2002434292)
+[2019.01.19-03.49.39:143][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.091299 seconds
+[2019.01.19-03.49.39:152][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.01.19-03.49.39:152][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.01.19-03.49.39:152][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.19-03.49.39:957][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.19-03.49.39:972][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.19-03.49.40:129][  0]SourceControl: Source control is disabled
+[2019.01.19-03.49.40:129][  0]SourceControl: Source control is disabled
+[2019.01.19-03.49.40:131][  0]SourceControl: Source control is disabled
+[2019.01.19-03.49.40:132][  0]SourceControl: Source control is disabled
+[2019.01.19-03.49.40:313][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.19-03.49.40:349][  0]LogOcInput: OculusInput pre-init called
+[2019.01.19-03.49.40:403][  0]LogEngine: Initializing Engine...
+[2019.01.19-03.49.40:404][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.19-03.49.40:405][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.19-03.49.40:405][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.19-03.49.40:405][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.19-03.49.40:405][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.19-03.49.40:585][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.19-03.49.40:598][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.19-03.49.40:650][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.19-03.49.40:793][  0]LogInit: FAudioDevice initialized.
+[2019.01.19-03.49.40:793][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.19-03.49.40:859][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/black/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.19-03.49.40:867][  0]LogInit: Texture streaming: Enabled
+[2019.01.19-03.49.40:883][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.19-03.49.40:895][  0]LogInit: Transaction tracking system initialized
+[2019.01.19-03.49.40:913][  0]BlueprintLog: New page: Editor Load
+[2019.01.19-03.49.40:983][  0]LocalizationService: Localization service is disabled
+[2019.01.19-03.49.41:208][  0]LogFileCache: Scanning file cache for directory 'C:/Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/' took 0.01s
+[2019.01.19-03.49.41:208][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.19-03.49.41:208][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.19-03.49.41:208][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.19-03.49.41:208][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.19-03.49.41:208][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.19-03.49.41:208][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.19-03.49.41:208][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.19-03.49.41:330][  0]SourceControl: Source control is disabled
+[2019.01.19-03.49.41:330][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.19-03.49.41:330][  0]LightingResults: New page: Lighting Build
+[2019.01.19-03.49.41:332][  0]MapCheck: New page: Map Check
+[2019.01.19-03.49.41:333][  0]LightingResults: New page: Lighting Build
+[2019.01.19-03.49.41:501][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.01.19-03.49.41:506][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.19-03.49.41:526][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.19-03.49.41:591][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.748ms to complete.
+[2019.01.19-03.49.41:591][  0]LogFileHelpers: Loading map 'Template_Default' took 0.261
+[2019.01.19-03.49.41:707][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-03.49.41:713][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-03.49.41:720][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-03.49.41:726][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-03.49.41:731][  0]LogCollectionManager: Loaded 0 collections in 0.001176 seconds
+[2019.01.19-03.49.41:791][  0]LogFileCache: Scanning file cache for directory 'C:/Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/Collections/' took 0.01s
+[2019.01.19-03.49.41:791][  0]LogFileCache: Scanning file cache for directory 'C:/Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/Developers/black/Collections/' took 0.01s
+[2019.01.19-03.49.41:791][  0]LogFileCache: Scanning file cache for directory 'C:/Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/Collections/' took 0.01s
+[2019.01.19-03.49.41:791][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.19-03.49.41:804][  0]LogContentBrowser: Native class hierarchy populated in 0.0132 seconds. Added 2572 classes and 603 folders.
+[2019.01.19-03.49.41:811][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.19-03.49.41:851][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.19-03.49.41:855][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.01.19-03.49.41:867][  0]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.19-03.49.41:869][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.19-03.49.41:873][  0]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.19-03.49.41:943][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2019.01.19-03.49.42:122][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.19-03.49.42:122][  0]LogLoad: (Engine Initialization) Total time: 7.54 seconds
+[2019.01.19-03.49.42:122][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.19-03.49.42:135][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.19-03.49.42:155][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.19-03.49.42:172][  0]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.19-03.49.42:193][  1]LogAssetRegistry: Asset discovery search completed in 3.9476 seconds
+[2019.01.19-03.49.42:194][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.19-03.49.42:194][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000034 seconds (updated 0 objects)
+[2019.01.19-03.49.43:143][ 99]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.19-03.49.48:943][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.49.49:168][814]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.49.49:208][814]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.19-03.49.49:208][814]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-03.49.49:208][814]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-03.49.49:212][814]LogAssetEditorManager: Opening Asset editor for Material /Game/CY_WBox.CY_WBox
+[2019.01.19-03.49.49:215][814]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.49.49:555][814]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.49.49:570][814]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.49.49:572][814]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.49.49:624][814]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.01.19-03.49.49:649][814]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/CY_MI_WBoxStreet_Inst.CY_MI_WBoxStreet_Inst
+[2019.01.19-03.49.49:756][814]LogSlate: Took 0.008128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.19-03.49.49:827][814]LogRenderer: Reallocating scene render targets to support 1068x708 Format 10 NumSamples 1 (Frame:1).
+[2019.01.19-03.49.50:205][821]LogSlate: Took 0.004924 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.19-03.49.50:250][824]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.19-03.49.50:292][827]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.19-03.49.50:726][855]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.49.50:727][855]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.49.51:105][881]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.49.51:121][882]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.49.51:434][903]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.49.51:462][905]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-03.49.51:741][925]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-03.49.51:786][928]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-03.49.52:022][944]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-03.49.52:515][977]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-03.49.52:850][  1]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-03.49.52:953][  8]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-03.49.53:229][ 25]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-03.49.53:573][ 48]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-03.49.53:648][ 53]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-03.49.53:710][ 57]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-03.49.54:140][ 84]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-03.49.54:453][105]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-03.49.54:551][111]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-03.49.54:825][129]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-03.49.54:975][138]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-03.49.55:200][152]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.19-03.49.55:200][152]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.19-03.49.55:200][152]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.19-03.49.55:200][152]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.19-03.49.57:249][354]LogSlate: Window 'CY_WBox' being destroyed
+[2019.01.19-03.50.05:978][372]LogAssetEditorManager: Opening Asset editor for MapBuildDataRegistry /Game/CLY_StreetLevel_BuiltData.CLY_StreetLevel_BuiltData
+[2019.01.19-03.50.12:905][176]LogAIModule: Creating AISystem for world CLY_StreetLevel
+[2019.01.19-03.50.12:917][176]LogAssetEditorManager: Opening Asset editor for World /Game/CLY_StreetLevel.CLY_StreetLevel
+[2019.01.19-03.50.12:937][176]Cmd: MAP LOAD FILE="../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/CLY_StreetLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.19-03.50.12:937][176]LightingResults: New page: Lighting Build
+[2019.01.19-03.50.12:937][176]LoadErrors: New page: Loading map: CLY_StreetLevel.umap
+[2019.01.19-03.50.12:938][176]MapCheck: New page: Map Check
+[2019.01.19-03.50.12:938][176]LightingResults: New page: Lighting Build
+[2019.01.19-03.50.12:967][176]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.19-03.50.12:998][176]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.19-03.50.13:066][176]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.966ms to complete.
+[2019.01.19-03.50.13:066][176]LogFileHelpers: Loading map 'CLY_StreetLevel' took 0.131
+[2019.01.19-03.52.18:421][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.52.36:519][760]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/CY_WBoxLand_Inst.CY_WBoxLand_Inst
+[2019.01.19-03.52.54:408][864]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.19-03.53.01:900][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CY_WBoxLand_Inst" FILE="../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/CY_WBoxLand_Inst.uasset" SILENT=true
+[2019.01.19-03.53.01:925][759]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CY_WBoxLand_Inst, compiling. 
+[2019.01.19-03.53.02:489][759]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-03.53.02:493][759]TextureStreamingBuild: Display: Compiling optional shaders took 0.573 seconds.
+[2019.01.19-03.53.02:527][759]LogSavePackage: Moving '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/CY_WBoxLand_InstE4922A80436D4D2D4435178F4BD3F13D.tmp' to '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/CY_WBoxLand_Inst.uasset'
+[2019.01.19-03.53.59:040][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.54.02:314][799]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.19-03.54.02:736][836]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.19-03.54.12:023][935]Cmd: TRANSACTION UNDO
+[2019.01.19-03.54.12:023][935]LogEditorTransaction: Undo Move Actors
+[2019.01.19-03.54.12:034][935]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.54.12:075][935]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.54.12:075][935]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.54.12:075][935]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.54.12:075][935]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.54.12:762][985]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.54.12:856][992]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-03.54.12:857][992]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-03.54.12:857][992]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-03.54.13:032][  5]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-03.54.13:105][ 10]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-03.54.13:136][ 12]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-03.54.13:166][ 14]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-03.54.13:276][ 23]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-03.54.13:485][ 37]Cmd: TRANSACTION UNDO
+[2019.01.19-03.54.13:485][ 37]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.19-03.54.13:492][ 37]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.54.13:553][ 37]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.54.13:730][ 47]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.54.13:820][ 53]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.54.13:894][ 58]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.54.13:927][ 60]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.54.14:089][ 71]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-03.54.14:187][ 77]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-03.54.14:204][ 78]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-03.54.14:205][ 78]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-03.54.14:347][ 88]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-03.54.14:443][ 94]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-03.54.14:468][ 96]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-03.54.14:482][ 97]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-03.54.14:553][102]Cmd: TRANSACTION UNDO
+[2019.01.19-03.54.14:553][102]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.19-03.54.14:577][102]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.54.14:874][115]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.54.14:947][120]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.54.15:139][133]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.54.15:154][134]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.54.15:250][141]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.54.15:305][145]Cmd: TRANSACTION UNDO
+[2019.01.19-03.54.15:305][145]LogEditorTransaction: Undo Edit None
+[2019.01.19-03.54.15:338][145]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-03.54.15:341][145]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.54.15:432][146]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.54.15:432][146]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.54.15:446][146]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.54.15:535][153]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.54.15:753][168]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.54.15:797][171]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-03.54.15:811][172]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-03.54.15:821][173]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-03.54.16:021][188]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-03.54.16:037][189]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-03.54.16:076][192]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-03.54.16:076][192]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-03.54.16:277][208]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-03.54.16:505][222]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-03.54.16:736][237]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-03.54.16:799][241]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-03.54.16:922][250]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-03.54.17:132][264]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-03.54.17:195][268]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-03.54.17:509][288]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-03.54.17:509][288]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-03.54.17:569][292]Cmd: TRANSACTION UNDO
+[2019.01.19-03.54.17:569][292]LogEditorTransaction: Undo Edit None
+[2019.01.19-03.54.17:605][292]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.54.17:659][292]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.54.17:717][293]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.54.17:838][301]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.54.18:033][314]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.54.18:093][318]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.54.18:110][319]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-03.54.18:196][326]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-03.54.18:198][326]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.19-03.54.18:274][328]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-03.54.18:338][333]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-03.54.18:338][333]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-03.54.18:459][342]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-03.54.18:483][344]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-03.54.18:596][352]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-03.54.18:878][370]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-03.54.18:989][377]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-03.54.19:150][388]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-03.54.19:150][388]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.19-03.54.19:228][391]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-03.54.19:393][402]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-03.54.19:547][412]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-03.54.19:783][428]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-03.54.19:847][432]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-03.54.20:295][464]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.19-03.54.20:295][464]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.19-03.54.20:295][464]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.19-03.54.20:295][464]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.19-03.54.24:725][983]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.01.19-03.54.25:608][ 84]Cmd: DELETE
+[2019.01.19-03.54.25:608][ 84]Cmd: ACTOR DELETE
+[2019.01.19-03.54.25:614][ 84]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2019.01.19-03.54.25:633][ 84]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.01.19-03.54.27:277][281]Cmd: TRANSACTION UNDO
+[2019.01.19-03.54.27:277][281]LogEditorTransaction: Undo Delete Actors
+[2019.01.19-03.54.27:290][281]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.54.27:328][281]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.54.27:328][281]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.54.27:328][281]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.54.27:328][281]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.54.27:578][294]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.54.27:661][299]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-03.54.27:662][299]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-03.54.27:678][300]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-03.54.27:837][311]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-03.54.27:891][315]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-03.54.27:915][317]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-03.54.27:942][319]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-03.54.28:086][331]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-03.54.28:319][346]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-03.54.28:364][349]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.19-03.54.28:517][356]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-03.54.28:625][363]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-03.54.28:719][369]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-03.54.28:890][381]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-03.54.28:987][387]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-03.54.29:250][404]Cmd: TRANSACTION UNDO
+[2019.01.19-03.54.29:250][404]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.19-03.54.29:267][404]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.54.29:286][404]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.54.29:361][404]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.54.29:458][410]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.54.29:529][415]Cmd: TRANSACTION UNDO
+[2019.01.19-03.54.29:529][415]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.19-03.54.29:547][415]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.54.29:621][415]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.54.29:688][418]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.54.29:717][420]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.54.29:792][425]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.54.29:979][437]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.54.29:997][438]Cmd: TRANSACTION UNDO
+[2019.01.19-03.54.29:997][438]LogEditorTransaction: Undo Move Actors
+[2019.01.19-03.54.30:003][438]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.54.30:078][439]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.54.30:078][439]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.54.30:078][439]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.54.30:225][449]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.54.30:478][466]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.54.30:492][467]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-03.54.30:492][467]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-03.54.30:544][471]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-03.54.30:810][489]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-03.54.30:810][489]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-03.54.30:826][490]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-03.54.30:865][493]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-03.54.31:162][513]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-03.54.31:340][524]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-03.54.31:532][537]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.19-03.54.31:574][538]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-03.54.31:626][541]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-03.54.31:808][553]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-03.54.31:976][564]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-03.54.32:027][567]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-03.54.32:300][585]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-03.54.32:364][589]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-03.54.32:854][626]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.19-03.54.32:854][626]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.19-03.54.32:854][626]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.19-03.54.32:854][626]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.19-03.54.36:133][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.54.37:269][142]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.19-03.54.37:408][157]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.19-03.54.39:214][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.54.40:657][526]LogActorFactory: Actor Factory created Cube
+[2019.01.19-03.54.43:443][842]LogActorFactory: Actor Factory created Cube
+[2019.01.19-03.54.59:520][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.55.14:445][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.56.33:031][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.56.35:062][702]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.19-03.56.36:837][910]Cmd: TRANSACTION UNDO
+[2019.01.19-03.56.36:837][910]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.19-03.56.36:858][910]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.56.36:899][910]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.56.36:899][910]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.56.36:899][910]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.56.36:899][910]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.56.37:589][957]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.56.37:619][959]Cmd: TRANSACTION UNDO
+[2019.01.19-03.56.37:620][959]LogEditorTransaction: Undo Move Actors
+[2019.01.19-03.56.37:628][959]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.56.37:698][960]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.56.37:698][960]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.56.37:698][960]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.56.37:936][976]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.56.38:100][987]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.56.38:132][989]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-03.56.38:132][989]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-03.56.38:133][989]Cmd: TRANSACTION UNDO
+[2019.01.19-03.56.38:133][989]LogEditorTransaction: Undo Move Actors
+[2019.01.19-03.56.38:147][989]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.56.38:214][990]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.56.38:357][  0]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.56.38:387][  2]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.56.38:404][  3]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.56.38:561][ 15]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.56.38:581][ 16]Cmd: TRANSACTION UNDO
+[2019.01.19-03.56.38:581][ 16]LogEditorTransaction: Undo Move Actors
+[2019.01.19-03.56.38:589][ 16]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.56.38:667][ 18]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.56.38:700][ 20]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.56.38:716][ 21]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.56.38:803][ 28]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.56.39:002][ 41]Cmd: TRANSACTION UNDO
+[2019.01.19-03.56.39:003][ 41]LogEditorTransaction: Undo Move Actors
+[2019.01.19-03.56.39:012][ 41]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.56.39:084][ 42]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.56.39:084][ 42]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.56.39:084][ 42]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.56.39:084][ 42]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.56.39:331][ 59]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.56.39:385][ 63]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-03.56.39:399][ 64]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-03.56.39:399][ 64]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-03.56.39:601][ 78]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-03.56.39:618][ 79]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-03.56.39:668][ 83]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-03.56.39:693][ 85]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-03.56.39:833][ 96]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-03.56.40:111][112]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-03.56.40:283][123]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-03.56.40:328][126]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-03.56.40:479][136]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-03.56.40:681][149]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-03.56.40:777][155]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-03.56.41:028][171]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-03.56.41:049][172]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-03.56.41:524][207]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.19-03.56.41:525][207]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.19-03.56.41:525][207]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.19-03.56.41:525][207]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.19-03.56.43:268][405]Cmd: TRANSACTION UNDO
+[2019.01.19-03.56.43:268][405]LogEditorTransaction: Undo Set Location
+[2019.01.19-03.56.43:272][405]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.56.43:314][405]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.56.43:314][405]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.56.43:314][405]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.56.43:314][405]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.56.43:561][418]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.56.43:629][422]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-03.56.43:630][422]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-03.56.43:632][422]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-03.56.43:650][424]Cmd: TRANSACTION UNDO
+[2019.01.19-03.56.43:650][424]LogEditorTransaction: Undo Create Actors
+[2019.01.19-03.56.43:657][424]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.56.43:758][425]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.56.43:813][429]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.56.43:837][431]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.56.43:872][434]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.56.44:092][448]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.56.44:145][452]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-03.56.44:146][452]Cmd: TRANSACTION UNDO
+[2019.01.19-03.56.44:146][452]LogEditorTransaction: Undo Create Actors
+[2019.01.19-03.56.44:148][452]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-03.56.44:174][452]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.56.44:197][452]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.56.44:272][453]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.56.44:360][459]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.56.44:372][460]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.56.44:559][472]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.56.44:633][477]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-03.56.44:646][478]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-03.56.44:711][483]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-03.56.44:828][491]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-03.56.44:884][495]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-03.56.44:912][497]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-03.56.44:912][497]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-03.56.45:062][508]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-03.56.45:305][523]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-03.56.45:561][539]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-03.56.45:628][543]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-03.56.45:717][549]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-03.56.45:943][564]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-03.56.45:976][566]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-03.56.46:253][579]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-03.56.46:284][581]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-03.56.46:786][623]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.19-03.56.46:786][623]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.19-03.56.46:786][623]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.19-03.56.46:786][623]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.19-03.56.53:457][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.56.58:433][969]Cmd: TRANSACTION UNDO
+[2019.01.19-03.56.58:433][969]LogEditorTransaction: Undo Create Actors
+[2019.01.19-03.56.58:437][969]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_10, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.01.19-03.56.58:437][969]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_10, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.01.19-03.56.58:437][969]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_10, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.01.19-03.56.58:437][969]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_10, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.01.19-03.56.58:437][969]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_10, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.01.19-03.56.58:437][969]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_10, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.01.19-03.56.58:437][969]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_10, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.01.19-03.56.58:437][969]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_10, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.01.19-03.56.58:437][969]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_10, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.01.19-03.56.58:437][969]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_10, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.01.19-03.56.58:437][969]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_10, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.01.19-03.56.58:437][969]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_10, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.01.19-03.56.58:437][969]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_10, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.01.19-03.56.58:437][969]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_10, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.01.19-03.56.58:437][969]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_10, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.01.19-03.56.58:437][969]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_10' invalid (1100 verts, 0 indices).
+[2019.01.19-03.56.58:437][969]LogPhysics: Warning: Attempt to build physics data for /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_10.BodySetup_0 when we are unable to.
+[2019.01.19-03.56.58:453][969]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.56.58:493][969]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.56.58:493][969]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.56.58:493][969]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.56.58:493][969]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.56.58:743][981]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.56.58:813][985]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-03.56.58:814][985]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-03.56.58:814][985]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-03.56.58:999][997]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-03.56.59:032][999]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-03.56.59:096][  4]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-03.56.59:111][  5]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-03.56.59:252][ 16]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-03.56.59:486][ 31]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-03.56.59:715][ 45]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-03.56.59:834][ 53]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-03.56.59:955][ 61]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-03.57.00:112][ 72]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-03.57.00:175][ 76]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-03.57.00:581][102]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-03.57.00:581][102]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-03.57.01:053][139]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.19-03.57.01:053][139]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.19-03.57.01:053][139]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.19-03.57.01:053][139]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.19-03.57.03:353][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.57.13:436][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.57.15:739][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.57.20:419][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.57.39:996][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.57.44:775][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.57.49:959][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.58.22:958][195]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-03.58.35:172][486]Cmd: TRANSACTION UNDO
+[2019.01.19-03.58.35:172][486]LogEditorTransaction: Undo Move Actors
+[2019.01.19-03.58.35:199][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_16, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.01.19-03.58.35:199][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_16, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.01.19-03.58.35:199][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_16, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.01.19-03.58.35:199][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_16, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.01.19-03.58.35:199][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_16, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.01.19-03.58.35:199][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_16, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.01.19-03.58.35:199][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_16, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.01.19-03.58.35:199][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_16, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.01.19-03.58.35:199][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_16, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.01.19-03.58.35:199][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_16, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.01.19-03.58.35:199][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_16, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.01.19-03.58.35:199][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_16, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.01.19-03.58.35:199][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_16, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.01.19-03.58.35:199][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_16, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.01.19-03.58.35:199][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_16, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.01.19-03.58.35:199][486]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_16' invalid (1112 verts, 0 indices).
+[2019.01.19-03.58.35:199][486]LogPhysics: Warning: Attempt to build physics data for /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_16.BodySetup_0 when we are unable to.
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_17, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_17, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_17, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_17, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_17, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_17, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_17, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_17, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_17, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_17' invalid (1112 verts, 0 indices).
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Attempt to build physics data for /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_17.BodySetup_0 when we are unable to.
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_18, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_18, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_18, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_18, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_18, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_18, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_18, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_18, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_18, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_18, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_18, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_18, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_18, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_18, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_18, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_18, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_18, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_18, Buffer: 0, Buffer Size: 0, Element: 17
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_18, Buffer: 0, Buffer Size: 0, Element: 18
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_18, Buffer: 0, Buffer Size: 0, Element: 19
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_18' invalid (1112 verts, 0 indices).
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Attempt to build physics data for /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_18.BodySetup_0 when we are unable to.
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_19, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_19, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_19, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_19, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_19, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_19, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_19, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_19, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_19, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_19, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_19' invalid (1112 verts, 0 indices).
+[2019.01.19-03.58.35:200][486]LogPhysics: Warning: Attempt to build physics data for /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_19.BodySetup_0 when we are unable to.
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_20, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_20, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_20, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_20, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_20, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_20, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_20, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_20, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_20, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_20, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_20, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_20, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_20, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_20, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_20, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_20' invalid (1112 verts, 0 indices).
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Attempt to build physics data for /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_20.BodySetup_0 when we are unable to.
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_21, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_21, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_21, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_21, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_21, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_21, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_21, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_21, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_21, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_21' invalid (1112 verts, 0 indices).
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Attempt to build physics data for /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_21.BodySetup_0 when we are unable to.
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_22, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_22, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_22, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_22, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_22, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_22, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_22, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_22, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_22, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_22, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_22, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_22, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_22, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_22, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_22, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_22' invalid (1112 verts, 0 indices).
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Attempt to build physics data for /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_22.BodySetup_0 when we are unable to.
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_23, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.01.19-03.58.35:201][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_23, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.01.19-03.58.35:202][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_23, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.01.19-03.58.35:202][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_23, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.01.19-03.58.35:202][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_23, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.01.19-03.58.35:202][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_23, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.01.19-03.58.35:202][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_23, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.01.19-03.58.35:202][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_23, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.01.19-03.58.35:202][486]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_23, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.01.19-03.58.35:202][486]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_23' invalid (1112 verts, 0 indices).
+[2019.01.19-03.58.35:202][486]LogPhysics: Warning: Attempt to build physics data for /Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.ModelComponent_23.BodySetup_0 when we are unable to.
+[2019.01.19-03.58.35:204][486]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_35.BrushComponent0) Component already registered.
+[2019.01.19-03.58.35:204][486]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Sidewalk_4.BrushComponent0) Component already registered.
+[2019.01.19-03.58.35:205][486]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Sidewalk_3.BrushComponent0) Component already registered.
+[2019.01.19-03.58.35:219][486]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-03.58.35:258][486]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.58.35:258][486]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.58.35:258][486]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.58.35:258][486]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.58.35:921][531]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.58.36:017][538]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-03.58.36:017][538]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-03.58.36:029][539]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-03.58.36:208][552]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-03.58.36:264][556]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-03.58.36:306][559]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-03.58.36:323][560]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-03.58.36:438][569]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-03.58.36:708][586]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-03.58.36:949][601]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-03.58.37:029][606]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-03.58.37:148][614]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-03.58.37:321][626]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-03.58.37:384][630]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-03.58.37:707][650]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-03.58.37:742][652]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-03.58.38:239][690]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.19-03.58.38:239][690]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.19-03.58.38:239][690]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.19-03.58.38:239][690]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.19-03.58.46:124][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.58.59:859][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.59.06:145][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.59.22:636][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-04.01.10:909][476]Cmd: TRANSACTION UNDO
+[2019.01.19-04.01.10:909][476]LogEditorTransaction: Undo Move Actors
+[2019.01.19-04.01.10:936][476]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_17.BrushComponent0) Component already registered.
+[2019.01.19-04.01.10:937][476]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_26.BrushComponent0) Component already registered.
+[2019.01.19-04.01.10:938][476]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_12.BrushComponent0) Component already registered.
+[2019.01.19-04.01.10:939][476]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_9.BrushComponent0) Component already registered.
+[2019.01.19-04.01.10:940][476]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Sidewalk_1.BrushComponent0) Component already registered.
+[2019.01.19-04.01.10:940][476]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_98.BrushComponent0) Component already registered.
+[2019.01.19-04.01.10:940][476]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_9.BrushComponent0) Component already registered.
+[2019.01.19-04.01.10:940][476]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_12.BrushComponent0) Component already registered.
+[2019.01.19-04.01.10:941][476]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_SW_2.BrushComponent0) Component already registered.
+[2019.01.19-04.01.10:941][476]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_SW_16.BrushComponent0) Component already registered.
+[2019.01.19-04.01.10:941][476]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_SW_13.BrushComponent0) Component already registered.
+[2019.01.19-04.01.10:961][476]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-04.01.10:995][476]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-04.01.10:995][476]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-04.01.10:995][476]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-04.01.10:995][476]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-04.01.11:696][527]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-04.01.11:767][532]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-04.01.11:767][532]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-04.01.11:780][533]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-04.01.11:940][545]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-04.01.12:006][550]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-04.01.12:043][553]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-04.01.12:043][553]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-04.01.12:175][564]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-04.01.12:439][581]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-04.01.12:741][601]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-04.01.12:808][606]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-04.01.12:824][607]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-04.01.13:129][628]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-04.01.13:129][628]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-04.01.13:502][653]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-04.01.13:502][653]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-04.01.13:993][694]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.19-04.01.13:993][694]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.19-04.01.13:993][694]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.19-04.01.13:993][694]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.19-04.03.57:919][294]LogEditorViewport: Clicking Background
+[2019.01.19-04.03.59:267][454]Cmd: TRANSACTION UNDO
+[2019.01.19-04.03.59:267][454]LogEditorTransaction: Undo Clicking Background
+[2019.01.19-04.03.59:286][454]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-04.03.59:325][454]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-04.03.59:325][454]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-04.03.59:325][454]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-04.03.59:325][454]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-04.04.00:046][505]Cmd: TRANSACTION UNDO
+[2019.01.19-04.04.00:047][505]LogEditorTransaction: Undo Apply Material to Selected Surfaces
+[2019.01.19-04.04.00:072][505]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-04.04.00:074][505]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-04.04.00:126][505]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-04.04.00:126][505]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-04.04.00:126][505]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-04.04.00:333][517]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-04.04.00:506][529]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-04.04.00:524][530]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-04.04.00:540][531]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-04.04.00:626][538]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-04.04.00:824][551]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-04.04.00:844][552]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-04.04.00:856][553]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-04.04.00:870][554]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-04.04.01:088][571]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-04.04.01:262][582]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-04.04.01:522][599]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-04.04.01:587][603]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-04.04.01:753][614]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-04.04.01:909][625]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-04.04.01:939][627]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-04.04.02:291][650]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-04.04.02:310][651]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-04.04.02:817][692]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.19-04.04.02:817][692]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.19-04.04.02:817][692]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.19-04.04.02:817][692]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.19-04.04.07:591][212]Cmd: TRANSACTION UNDO
+[2019.01.19-04.04.07:591][212]LogEditorTransaction: Undo Move Actors
+[2019.01.19-04.04.07:632][212]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_SW_16.BrushComponent0) Component already registered.
+[2019.01.19-04.04.07:633][212]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_SW_9.BrushComponent0) Component already registered.
+[2019.01.19-04.04.07:636][212]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_35.BrushComponent0) Component already registered.
+[2019.01.19-04.04.07:637][212]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_28.BrushComponent0) Component already registered.
+[2019.01.19-04.04.07:638][212]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_21.BrushComponent0) Component already registered.
+[2019.01.19-04.04.07:640][212]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_14.BrushComponent0) Component already registered.
+[2019.01.19-04.04.07:659][212]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-04.04.07:697][212]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-04.04.07:697][212]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-04.04.07:697][212]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-04.04.07:698][212]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-04.04.07:960][223]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-04.04.08:049][228]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-04.04.08:049][228]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-04.04.08:066][229]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-04.04.08:229][241]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-04.04.08:271][244]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-04.04.08:311][247]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-04.04.08:327][248]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-04.04.08:486][260]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-04.04.08:725][275]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-04.04.08:963][289]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-04.04.09:028][293]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-04.04.09:136][300]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-04.04.09:334][313]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-04.04.09:402][317]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-04.04.09:731][337]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-04.04.09:731][337]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-04.04.10:202][369]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.19-04.04.10:202][369]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.19-04.04.10:202][369]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.19-04.04.10:202][369]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.19-04.05.39:371][340]Cmd: TRANSACTION UNDO
+[2019.01.19-04.05.39:371][340]LogEditorTransaction: Undo Move Actors
+[2019.01.19-04.05.39:454][340]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_33.BrushComponent0) Component already registered.
+[2019.01.19-04.05.39:454][340]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_29.BrushComponent0) Component already registered.
+[2019.01.19-04.05.39:455][340]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_SW_12.BrushComponent0) Component already registered.
+[2019.01.19-04.05.39:455][340]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_SW_4.BrushComponent0) Component already registered.
+[2019.01.19-04.05.39:455][340]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_SW_8.BrushComponent0) Component already registered.
+[2019.01.19-04.05.39:456][340]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_28.BrushComponent0) Component already registered.
+[2019.01.19-04.05.39:460][340]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_66.BrushComponent0) Component already registered.
+[2019.01.19-04.05.39:461][340]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_68.BrushComponent0) Component already registered.
+[2019.01.19-04.05.39:461][340]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_106.BrushComponent0) Component already registered.
+[2019.01.19-04.05.39:461][340]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_47.BrushComponent0) Component already registered.
+[2019.01.19-04.05.39:462][340]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Sidewalk_26.BrushComponent0) Component already registered.
+[2019.01.19-04.05.39:464][340]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_41.BrushComponent0) Component already registered.
+[2019.01.19-04.05.39:464][340]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_SW_16.BrushComponent0) Component already registered.
+[2019.01.19-04.05.39:464][340]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_37.BrushComponent0) Component already registered.
+[2019.01.19-04.05.39:465][340]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_12.BrushComponent0) Component already registered.
+[2019.01.19-04.05.39:465][340]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Sidewalk_4.BrushComponent0) Component already registered.
+[2019.01.19-04.05.39:465][340]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Sidewalk_13.BrushComponent0) Component already registered.
+[2019.01.19-04.05.39:465][340]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_37.BrushComponent0) Component already registered.
+[2019.01.19-04.05.39:494][340]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-04.05.39:535][340]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-04.05.39:535][340]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-04.05.39:535][340]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-04.05.39:535][340]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-04.05.40:264][386]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-04.05.40:354][392]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-04.05.40:370][393]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-04.05.40:388][394]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-04.05.40:531][404]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-04.05.40:613][409]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-04.05.40:613][409]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-04.05.40:684][414]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-04.05.40:793][422]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-04.05.41:094][440]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-04.05.41:332][455]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-04.05.41:414][460]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-04.05.41:478][464]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-04.05.41:731][480]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-04.05.41:802][484]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-04.05.42:110][501]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-04.05.42:129][502]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-04.05.42:621][537]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.19-04.05.42:621][537]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.19-04.05.42:621][537]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.19-04.05.42:621][537]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.19-04.05.48:916][189]Cmd: TRANSACTION UNDO
+[2019.01.19-04.05.48:916][189]LogEditorTransaction: Undo Move Actors
+[2019.01.19-04.05.49:009][189]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_33.BrushComponent0) Component already registered.
+[2019.01.19-04.05.49:009][189]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_29.BrushComponent0) Component already registered.
+[2019.01.19-04.05.49:010][189]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_SW_12.BrushComponent0) Component already registered.
+[2019.01.19-04.05.49:010][189]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_SW_4.BrushComponent0) Component already registered.
+[2019.01.19-04.05.49:010][189]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_SW_8.BrushComponent0) Component already registered.
+[2019.01.19-04.05.49:011][189]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_28.BrushComponent0) Component already registered.
+[2019.01.19-04.05.49:015][189]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_66.BrushComponent0) Component already registered.
+[2019.01.19-04.05.49:015][189]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_68.BrushComponent0) Component already registered.
+[2019.01.19-04.05.49:016][189]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_106.BrushComponent0) Component already registered.
+[2019.01.19-04.05.49:016][189]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_47.BrushComponent0) Component already registered.
+[2019.01.19-04.05.49:016][189]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Sidewalk_26.BrushComponent0) Component already registered.
+[2019.01.19-04.05.49:019][189]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_41.BrushComponent0) Component already registered.
+[2019.01.19-04.05.49:019][189]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_SW_16.BrushComponent0) Component already registered.
+[2019.01.19-04.05.49:019][189]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_37.BrushComponent0) Component already registered.
+[2019.01.19-04.05.49:019][189]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_12.BrushComponent0) Component already registered.
+[2019.01.19-04.05.49:019][189]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Sidewalk_4.BrushComponent0) Component already registered.
+[2019.01.19-04.05.49:020][189]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Sidewalk_13.BrushComponent0) Component already registered.
+[2019.01.19-04.05.49:020][189]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_37.BrushComponent0) Component already registered.
+[2019.01.19-04.05.49:048][189]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-04.05.49:085][189]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-04.05.49:085][189]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-04.05.49:085][189]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-04.05.49:085][189]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-04.05.49:378][200]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-04.05.49:444][204]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-04.05.49:444][204]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-04.05.49:459][205]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-04.05.49:642][216]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-04.05.49:678][218]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-04.05.49:724][221]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-04.05.49:724][221]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-04.05.49:919][233]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-04.05.50:154][245]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-04.05.50:413][261]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-04.05.50:483][265]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-04.05.50:613][273]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-04.05.50:814][286]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-04.05.50:849][288]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-04.05.51:277][312]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-04.05.51:291][313]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-04.05.51:798][351]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.19-04.05.51:798][351]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.19-04.05.51:798][351]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.19-04.05.51:798][351]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.19-04.06.18:747][176]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.19-04.06.57:688][451]Cmd: TRANSACTION UNDO
+[2019.01.19-04.06.57:688][451]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.19-04.06.57:706][451]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-04.06.57:740][451]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-04.06.57:740][451]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-04.06.57:740][451]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-04.06.57:740][451]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-04.06.58:167][480]Cmd: TRANSACTION UNDO
+[2019.01.19-04.06.58:167][480]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.19-04.06.58:189][480]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-04.06.58:403][486]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-04.06.58:505][493]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-04.06.58:505][493]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-04.06.58:522][494]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-04.06.58:767][510]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-04.06.58:811][513]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-04.06.58:878][518]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-04.06.58:892][519]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-04.06.59:045][529]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-04.06.59:092][532]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-04.06.59:108][533]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.19-04.06.59:120][533]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-04.06.59:142][533]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-04.06.59:245][540]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-04.06.59:545][558]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-04.06.59:733][570]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-04.06.59:836][576]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-04.06.59:895][580]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-04.07.00:153][597]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-04.07.00:250][603]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-04.07.00:519][620]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-04.07.00:554][622]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-04.07.01:037][659]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.19-04.07.01:037][659]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.19-04.07.01:037][659]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.19-04.07.01:037][659]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.19-04.07.07:734][434]Cmd: TRANSACTION UNDO
+[2019.01.19-04.07.07:734][434]LogEditorTransaction: Undo Apply Material to Selected Surfaces
+[2019.01.19-04.07.07:753][434]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-04.07.07:793][434]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-04.07.07:794][434]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-04.07.07:794][434]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-04.07.07:794][434]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-04.07.08:057][446]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-04.07.08:150][451]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-04.07.08:151][451]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-04.07.08:151][451]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-04.07.08:311][462]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-04.07.08:377][466]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-04.07.08:460][472]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-04.07.08:460][472]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-04.07.08:581][481]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-04.07.08:860][499]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-04.07.09:048][511]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-04.07.09:192][521]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-04.07.09:240][524]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-04.07.09:449][538]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-04.07.09:542][544]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-04.07.09:866][564]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-04.07.09:867][564]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.19-04.07.09:940][565]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-04.07.10:357][598]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.19-04.07.10:357][598]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.19-04.07.10:357][598]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.19-04.07.10:357][598]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.19-04.07.24:942][215]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.19-04.07.33:980][249]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.19-04.07.36:936][589]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.19-04.07.37:853][695]Cmd: TRANSACTION UNDO
+[2019.01.19-04.07.37:853][695]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.19-04.07.37:873][695]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-04.07.37:911][695]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-04.07.37:911][695]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-04.07.37:911][695]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-04.07.37:911][695]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-04.07.38:430][733]Cmd: TRANSACTION UNDO
+[2019.01.19-04.07.38:430][733]LogEditorTransaction: Undo Apply Material to Surface
+[2019.01.19-04.07.38:468][733]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-04.07.38:575][734]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-04.07.38:655][739]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-04.07.38:655][739]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-04.07.38:672][740]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-04.07.38:918][758]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-04.07.38:945][760]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-04.07.39:009][765]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-04.07.39:021][766]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-04.07.39:182][777]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-04.07.39:215][779]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-04.07.39:242][781]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-04.07.39:292][785]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-04.07.39:441][797]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-04.07.39:502][801]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.19-04.07.39:656][807]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-04.07.39:870][820]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-04.07.39:969][826]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-04.07.40:094][834]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-04.07.40:273][846]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-04.07.40:308][848]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-04.07.40:654][869]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-04.07.40:674][870]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-04.07.41:159][908]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.19-04.07.41:159][908]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.19-04.07.41:159][908]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.19-04.07.41:159][908]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.19-04.07.41:313][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-04.08.03:078][435]LogEditorViewport: Clicking Background
+[2019.01.19-04.08.36:426][277]Cmd: TRANSACTION UNDO
+[2019.01.19-04.08.36:426][277]LogEditorTransaction: Undo Move Actors
+[2019.01.19-04.08.36:495][277]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_SW_14.BrushComponent0) Component already registered.
+[2019.01.19-04.08.36:495][277]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_18.BrushComponent0) Component already registered.
+[2019.01.19-04.08.36:496][277]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_31.BrushComponent0) Component already registered.
+[2019.01.19-04.08.36:497][277]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_23.BrushComponent0) Component already registered.
+[2019.01.19-04.08.36:497][277]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_40.BrushComponent0) Component already registered.
+[2019.01.19-04.08.36:497][277]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Sidewalk_1.BrushComponent0) Component already registered.
+[2019.01.19-04.08.36:498][277]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Sidewalk_3.BrushComponent0) Component already registered.
+[2019.01.19-04.08.36:498][277]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Sidewalk_5.BrushComponent0) Component already registered.
+[2019.01.19-04.08.36:502][277]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_2.BrushComponent0) Component already registered.
+[2019.01.19-04.08.36:502][277]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_8.BrushComponent0) Component already registered.
+[2019.01.19-04.08.36:503][277]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_45.BrushComponent0) Component already registered.
+[2019.01.19-04.08.36:504][277]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_32.BrushComponent0) Component already registered.
+[2019.01.19-04.08.36:504][277]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_34.BrushComponent0) Component already registered.
+[2019.01.19-04.08.36:505][277]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_36.BrushComponent0) Component already registered.
+[2019.01.19-04.08.36:505][277]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_38.BrushComponent0) Component already registered.
+[2019.01.19-04.08.36:505][277]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Sidewalk_22.BrushComponent0) Component already registered.
+[2019.01.19-04.08.36:505][277]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_52.BrushComponent0) Component already registered.
+[2019.01.19-04.08.36:535][277]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-04.08.36:575][277]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-04.08.36:575][277]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-04.08.36:575][277]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-04.08.36:576][277]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-04.08.37:313][331]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-04.08.37:340][333]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-04.08.37:355][334]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-04.08.37:370][335]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-04.08.37:602][352]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-04.08.37:602][352]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-04.08.37:628][354]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-04.08.37:642][355]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-04.08.37:853][372]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-04.08.38:057][385]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-04.08.38:276][400]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-04.08.38:338][404]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-04.08.38:519][416]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-04.08.38:678][427]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-04.08.38:740][431]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-04.08.39:028][450]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-04.08.39:077][453]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-04.08.39:539][489]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.19-04.08.39:539][489]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.19-04.08.39:539][489]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.19-04.08.39:539][489]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.19-04.08.45:176][153]LogEditorViewport: Clicking Background
+[2019.01.19-04.09.01:033][970]LogEditorViewport: Clicking Background
+[2019.01.19-04.10.10:707][951]Cmd: TRANSACTION UNDO
+[2019.01.19-04.10.10:707][951]LogEditorTransaction: Undo Marquee Select
+[2019.01.19-04.10.10:721][951]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-04.10.10:757][951]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-04.10.10:757][951]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-04.10.10:757][951]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-04.10.10:757][951]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-04.10.11:448][999]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-04.10.11:527][  5]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-04.10.11:543][  6]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-04.10.11:555][  7]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-04.10.11:715][ 19]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-04.10.11:778][ 23]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-04.10.11:829][ 27]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-04.10.11:845][ 28]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-04.10.11:977][ 38]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-04.10.12:253][ 55]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-04.10.12:451][ 68]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-04.10.12:528][ 73]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-04.10.12:623][ 79]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-04.10.12:684][ 83]LogEditorViewport: Clicking Background
+[2019.01.19-04.10.12:841][ 94]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-04.10.12:946][102]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-04.10.13:228][124]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-04.10.13:244][125]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-04.10.13:773][174]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.19-04.10.13:773][174]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.19-04.10.13:773][174]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.19-04.10.13:773][174]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.19-04.10.55:593][ 32]LogEditorViewport: Clicking Background
+[2019.01.19-04.11.13:997][220]LogEditorViewport: Clicking Background
+[2019.01.19-04.11.53:291][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-04.12.44:035][254]Cmd: TRANSACTION UNDO
+[2019.01.19-04.12.44:035][254]LogEditorTransaction: Undo Move Actors
+[2019.01.19-04.12.44:202][254]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_64.BrushComponent0) Component already registered.
+[2019.01.19-04.12.44:203][254]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_46.BrushComponent0) Component already registered.
+[2019.01.19-04.12.44:205][254]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_33.BrushComponent0) Component already registered.
+[2019.01.19-04.12.44:223][254]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_14.BrushComponent0) Component already registered.
+[2019.01.19-04.12.44:225][254]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_18.BrushComponent0) Component already registered.
+[2019.01.19-04.12.44:228][254]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_104.BrushComponent0) Component already registered.
+[2019.01.19-04.12.44:230][254]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_148.BrushComponent0) Component already registered.
+[2019.01.19-04.12.44:231][254]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_108.BrushComponent0) Component already registered.
+[2019.01.19-04.12.44:231][254]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_GrassLand_559.BrushComponent0) Component already registered.
+[2019.01.19-04.12.44:234][254]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_584.BrushComponent0) Component already registered.
+[2019.01.19-04.12.44:235][254]LogActorComponent: ~FComponentReregisterContext: (/Game/CLY_StreetLevel.CLY_StreetLevel:PersistentLevel.Brush_Street_507.BrushComponent0) Component already registered.
+[2019.01.19-04.12.44:283][254]LogMaterial: Display: Missing cached shader map for material CY_WBox, compiling. 
+[2019.01.19-04.12.44:322][254]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-04.12.44:322][254]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-04.12.44:322][254]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-04.12.44:322][254]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-04.12.45:017][301]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-04.12.45:110][308]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-04.12.45:110][308]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-04.12.45:127][309]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-04.12.45:308][322]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-04.12.45:368][326]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-04.12.45:394][328]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-04.12.45:407][329]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-04.12.45:545][340]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-04.12.45:744][345]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-04.12.46:005][345]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-04.12.46:005][345]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-04.12.46:005][345]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-04.12.46:211][352]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-04.12.46:211][352]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-04.12.46:558][373]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-04.12.46:621][377]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-04.12.47:089][415]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.19-04.12.47:089][415]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.19-04.12.47:089][415]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.19-04.12.47:089][415]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.19-04.13.00:996][859]LogEditorViewport: Clicking Background
+[2019.01.19-04.13.30:762][884]LogEditorViewport: Clicking Background
+[2019.01.19-04.13.34:726][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-04.14.10:978][437]LogEditorViewport: Clicking Background
+[2019.01.19-04.14.24:108][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-04.14.51:556][325]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-04.15.15:694][314]LogEditorViewport: Clicking on Actor (LMB): Brush (Brush_GrassLand_247)
+[2019.01.19-04.15.45:044][862]LogSavePackage: Moving '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/CLY_StreetLevel_Auto110AC758F4369FCFB9BD49D90ED6722C9.tmp' to '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/Autosaves/Game/CLY_StreetLevel_Auto1.umap'
+[2019.01.19-04.15.45:049][862]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CLY_StreetLevel' took 0.982
+[2019.01.19-04.15.45:049][862]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.982
+[2019.01.19-04.15.45:059][862]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CY_WBoxLand_Inst] ([1] browsable assets)...
+[2019.01.19-04.15.45:089][862]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/CY_WBoxLand_Inst.CY_WBoxLand_Inst]
+[2019.01.19-04.15.45:089][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/CY_WBoxLand_Inst]
+[2019.01.19-04.15.45:143][862]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CY_WBoxLand_Inst, compiling. 
+[2019.01.19-04.15.45:565][862]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-04.15.45:580][862]TextureStreamingBuild: Display: Compiling optional shaders took 0.440 seconds.
+[2019.01.19-04.15.45:625][862]LogSavePackage: Moving '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/CY_WBoxLand_Inst_Auto111B5491146ECC46C25B2BE9D5C831EE4.tmp' to '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/Autosaves/Game/CY_WBoxLand_Inst_Auto1.uasset'
+[2019.01.19-04.15.45:626][862]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CY_MI_WBoxStreet_Inst] ([1] browsable assets)...
+[2019.01.19-04.15.45:651][862]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/CY_MI_WBoxStreet_Inst.CY_MI_WBoxStreet_Inst]
+[2019.01.19-04.15.45:651][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/CY_MI_WBoxStreet_Inst]
+[2019.01.19-04.15.45:685][862]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CY_MI_WBoxStreet_Inst, compiling. 
+[2019.01.19-04.15.45:790][862]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-04.15.45:800][862]TextureStreamingBuild: Display: Compiling optional shaders took 0.118 seconds.
+[2019.01.19-04.15.45:840][862]LogSavePackage: Moving '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/CY_MI_WBoxStreet_Inst_Auto1CD14997A4C1B3E178149D7804B81B5CD.tmp' to '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/Autosaves/Game/CY_MI_WBoxStreet_Inst_Auto1.uasset'
+[2019.01.19-04.15.45:841][862]LogFileHelpers: Auto-saving content packages took 0.783
+[2019.01.19-04.16.49:924][421]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-04.16.57:261][287]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-04.16.58:243][287]LogSavePackage: Moving '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/CLY_StreetLevelAD7C97C245C1EF32C09BD8815C988E6A.tmp' to '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/CLY_StreetLevel.umap'
+[2019.01.19-04.16.58:285][287]LogFileHelpers: Saving map 'CLY_StreetLevel' took 1.012
+[2019.01.19-04.16.58:290][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CY_WBoxLand_Inst" FILE="../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/CY_WBoxLand_Inst.uasset" SILENT=true
+[2019.01.19-04.16.58:335][287]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CY_WBoxLand_Inst, compiling. 
+[2019.01.19-04.16.58:745][287]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-04.16.58:757][287]TextureStreamingBuild: Display: Compiling optional shaders took 0.425 seconds.
+[2019.01.19-04.16.58:777][287]LogSavePackage: Moving '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/CY_WBoxLand_Inst23F7C7AF4E9C86DB1FD241B72403C2E2.tmp' to '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/CY_WBoxLand_Inst.uasset'
+[2019.01.19-04.16.58:784][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CY_MI_WBoxStreet_Inst" FILE="../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/CY_MI_WBoxStreet_Inst.uasset" SILENT=true
+[2019.01.19-04.16.58:808][287]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CY_MI_WBoxStreet_Inst, compiling. 
+[2019.01.19-04.16.58:923][287]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-04.16.58:931][287]TextureStreamingBuild: Display: Compiling optional shaders took 0.126 seconds.
+[2019.01.19-04.16.58:951][287]LogSavePackage: Moving '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/CY_MI_WBoxStreet_InstF040B84642D520E4677C629BAA5BE188.tmp' to '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/CY_MI_WBoxStreet_Inst.uasset'
