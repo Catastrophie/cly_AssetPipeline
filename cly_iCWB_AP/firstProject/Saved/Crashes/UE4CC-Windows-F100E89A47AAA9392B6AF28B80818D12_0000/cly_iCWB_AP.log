@@ -1,0 +1,1156 @@
+﻿Log file open, 05/07/19 20:26:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: cly_iCWB_AP
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.342484
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.223s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.05.08-02.26.43:072][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.08-02.26.43:072][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.08-02.26.43:114][  0]LogHAL: Display: Platform has ~ 8 GB [8424574976 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.08-02.26.43:114][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.05.08-02.26.43:115][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.08-02.26.43:116][  0]LogInit: Computer: DESKTOP-4HEA2F2
+[2019.05.08-02.26.43:116][  0]LogInit: User: black
+[2019.05.08-02.26.43:116][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.08-02.26.43:116][  0]LogInit: High frequency timer resolution =2.250000 MHz
+[2019.05.08-02.26.43:117][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2019.05.08-02.26.43:117][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.08-02.26.43:117][  0]LogMemory: Process Physical Memory: 99.42 MB used, 99.42 MB peak
+[2019.05.08-02.26.43:117][  0]LogMemory: Process Virtual Memory: 91.02 MB used, 91.02 MB peak
+[2019.05.08-02.26.43:117][  0]LogMemory: Physical Memory: 4133.03 MB used,  3901.27 MB free, 8034.30 MB total
+[2019.05.08-02.26.43:117][  0]LogMemory: Virtual Memory: 4645.23 MB used,  3901.27 MB free, 134217728.00 MB total
+[2019.05.08-02.26.43:193][  0]LogInit: Using OS detected language (en-US).
+[2019.05.08-02.26.43:193][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.08-02.26.43:197][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.08-02.26.43:803][  0]LogStreaming: Display: Took  0.610s to InitEngineTextLocalization.
+[2019.05.08-02.26.43:803][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.08-02.26.43:852][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.08-02.26.43:852][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.08-02.26.44:194][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.08-02.26.44:194][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.08-02.26.44:317][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.05.08-02.26.44:317][  0]LogD3D11RHI:       4029/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.08-02.26.44:348][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.05.08-02.26.44:348][  0]LogD3D11RHI:       128/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.08-02.26.44:351][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.08-02.26.44:351][  0]LogD3D11RHI:       0/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.08-02.26.44:351][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.08-02.26.44:391][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.08-02.26.44:391][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2019.05.08-02.26.44:391][  0]LogWindows: EnumDisplayDevices:
+[2019.05.08-02.26.44:392][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.05.08-02.26.44:392][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.05.08-02.26.44:392][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.05.08-02.26.44:393][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.05.08-02.26.44:393][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.05.08-02.26.44:393][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.05.08-02.26.44:393][  0]LogD3D11RHI:   Driver Version: 388.73 (internal:23.21.13.8873, unified:388.73)
+[2019.05.08-02.26.44:393][  0]LogD3D11RHI:      Driver Date: 12-18-2017
+[2019.05.08-02.26.44:393][  0]LogRHI: Texture pool is 2820 MB (70% of 4029 MB)
+[2019.05.08-02.26.44:430][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.08-02.26.44:445][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.08-02.26.44:448][  0]LogShaderCompilers: Guid format shader working directory is -44 characters bigger than the processId version (../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Intermediate/Shaders/WorkingDirectory/17656/).
+[2019.05.08-02.26.44:448][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/black/AppData/Local/Temp/UnrealShaderWorkingDir/B5ED0F984EDBA08D397F13B9021EE18C/'.
+[2019.05.08-02.26.44:827][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.08-02.26.44:846][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.08-02.26.44:867][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.08-02.26.44:886][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.08-02.26.44:906][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.08-02.26.44:926][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.08-02.26.44:949][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.08-02.26.44:971][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.08-02.26.44:986][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.08-02.26.45:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-02.26.45:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-02.26.45:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-02.26.45:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-02.26.45:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-02.26.45:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-02.26.45:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-02.26.45:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-02.26.45:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-02.26.45:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-02.26.45:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-02.26.45:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-02.26.45:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-02.26.45:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-02.26.45:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-02.26.45:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-02.26.45:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-02.26.45:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-02.26.45:113][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.08-02.26.45:186][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.08-02.26.45:186][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.08-02.26.45:233][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.08-02.26.45:233][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.08-02.26.45:250][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.08-02.26.45:270][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.08-02.26.45:289][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.08-02.26.45:310][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.08-02.26.45:325][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.08-02.26.45:325][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.08-02.26.45:497][  0]LogXGEController: Cleaning working directory: C:/Users/black/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.08-02.26.45:497][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.08-02.26.45:497][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.08-02.26.45:497][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.08-02.26.46:822][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.08-02.26.46:898][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/black/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.08-02.26.46:899][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/black/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.05.08-02.26.46:899][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.08-02.26.46:899][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.08-02.26.46:899][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.08-02.26.46:899][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.08-02.26.46:921][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.08-02.26.46:933][  0]LogDerivedDataCache: Using Local data cache path C:/Users/black/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.08-02.26.46:933][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.08-02.26.46:933][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.08-02.26.46:974][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.08-02.26.46:977][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.08-02.26.46:979][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.08-02.26.47:126][  0]LogAssetRegistry: FAssetRegistry took 0.0316 seconds to start up
+[2019.05.08-02.26.47:644][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.08-02.26.47:860][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.08-02.26.47:865][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.08-02.26.47:865][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.08-02.26.47:865][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.08-02.26.47:865][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.08-02.26.47:886][  0]LogNetVersion: cly_iCWB_AP 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2002434292)
+[2019.05.08-02.26.49:092][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.270064 seconds
+[2019.05.08-02.26.49:107][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.05.08-02.26.49:107][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.05.08-02.26.49:107][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.08-02.26.50:549][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.08-02.26.50:565][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.08-02.26.50:888][  0]SourceControl: Source control is disabled
+[2019.05.08-02.26.50:888][  0]SourceControl: Source control is disabled
+[2019.05.08-02.26.50:892][  0]SourceControl: Source control is disabled
+[2019.05.08-02.26.50:895][  0]SourceControl: Source control is disabled
+[2019.05.08-02.26.51:188][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.08-02.26.51:259][  0]LogOcInput: OculusInput pre-init called
+[2019.05.08-02.26.51:375][  0]LogEngine: Initializing Engine...
+[2019.05.08-02.26.51:377][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.08-02.26.51:380][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.08-02.26.51:380][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.08-02.26.51:380][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.08-02.26.51:380][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.08-02.26.51:853][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.08-02.26.51:878][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.08-02.26.51:966][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-02.26.52:140][  0]LogInit: FAudioDevice initialized.
+[2019.05.08-02.26.52:140][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.08-02.26.52:250][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/black/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.08-02.26.52:277][  0]LogInit: Texture streaming: Enabled
+[2019.05.08-02.26.52:320][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.08-02.26.52:320][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={93BE03F4-483F-CDDC-2536-9080BCA140F1}
+[2019.05.08-02.26.52:353][  0]LogInit: Transaction tracking system initialized
+[2019.05.08-02.26.52:419][  0]BlueprintLog: New page: Editor Load
+[2019.05.08-02.26.52:578][  0]LocalizationService: Localization service is disabled
+[2019.05.08-02.26.52:950][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.08-02.26.52:950][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.08-02.26.52:950][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.08-02.26.52:950][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.08-02.26.52:950][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.08-02.26.52:950][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.08-02.26.52:950][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.08-02.26.53:116][  0]LogFileCache: Scanning file cache for directory 'C:/Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/' took 0.01s
+[2019.05.08-02.26.53:117][  0]SourceControl: Source control is disabled
+[2019.05.08-02.26.53:117][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.08-02.26.53:117][  0]LightingResults: New page: Lighting Build
+[2019.05.08-02.26.53:121][  0]MapCheck: New page: Map Check
+[2019.05.08-02.26.53:121][  0]LightingResults: New page: Lighting Build
+[2019.05.08-02.26.53:438][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.05.08-02.26.53:449][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.08-02.26.53:489][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.08-02.26.53:618][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 128.434ms to complete.
+[2019.05.08-02.26.53:618][  0]LogFileHelpers: Loading map 'Template_Default' took 0.501
+[2019.05.08-02.26.53:778][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-02.26.53:788][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-02.26.53:799][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-02.26.53:809][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-02.26.53:820][  0]LogCollectionManager: Loaded 0 collections in 0.003025 seconds
+[2019.05.08-02.26.53:867][  0]LogFileCache: Scanning file cache for directory 'C:/Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/Collections/' took 0.01s
+[2019.05.08-02.26.53:867][  0]LogFileCache: Scanning file cache for directory 'C:/Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/Developers/black/Collections/' took 0.01s
+[2019.05.08-02.26.53:867][  0]LogFileCache: Scanning file cache for directory 'C:/Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/Collections/' took 0.01s
+[2019.05.08-02.26.53:867][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.05.08-02.26.53:894][  0]LogContentBrowser: Native class hierarchy populated in 0.0271 seconds. Added 2572 classes and 603 folders.
+[2019.05.08-02.26.53:918][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.05.08-02.26.54:102][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.05.08-02.26.54:116][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.05.08-02.26.54:157][  0]LogSlate: Took 0.000652 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.08-02.26.54:163][  0]LogSlate: Took 0.000463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.08-02.26.54:174][  0]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.08-02.26.54:272][  0]LogRenderer: Reallocating scene render targets to support 1188x360 Format 10 NumSamples 1 (Frame:1).
+[2019.05.08-02.26.54:511][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.08-02.26.54:511][  0]LogLoad: (Engine Initialization) Total time: 14.59 seconds
+[2019.05.08-02.26.54:511][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.08-02.26.54:523][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.08-02.26.54:546][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.08-02.26.54:564][  0]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.08-02.26.54:582][  1]LogAssetRegistry: Asset discovery search completed in 7.4787 seconds
+[2019.05.08-02.26.54:584][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.08-02.26.54:584][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
+[2019.05.08-02.27.05:628][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-02.27.13:105][283]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.08-02.27.13:134][283]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/ManPosed.fbx)
+[2019.05.08-02.27.13:206][283]LogFbx: Loading FBX Scene from ../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/ManPosed.fbx
+[2019.05.08-02.27.13:271][283]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.08-02.27.19:618][283]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.08-02.27.19:648][283]LogFbx: =================================================
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node START [Geo_Thigh_L] 
+[2019.05.08-02.27.19:648][283]LogFbx: 	Total Deformer Count 1058157632.
+[2019.05.08-02.27.19:648][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:648][283]LogFbx: 		[Node Attribute Child 1] Geo_Thigh_L (Type Mesh).
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node END [Geo_Thigh_L]
+[2019.05.08-02.27.19:648][283]LogFbx: =================================================
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node START [Geo_Calf_L] 
+[2019.05.08-02.27.19:648][283]LogFbx: 	Total Deformer Count 1058156736.
+[2019.05.08-02.27.19:648][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:648][283]LogFbx: 		[Node Attribute Child 1] Geo_Calf_L (Type Mesh).
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node END [Geo_Calf_L]
+[2019.05.08-02.27.19:648][283]LogFbx: =================================================
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node START [polySurface75] 
+[2019.05.08-02.27.19:648][283]LogFbx: 	Total Deformer Count 1061149392.
+[2019.05.08-02.27.19:648][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:648][283]LogFbx: 		[Node Attribute Child 1] polySurface75 (Type Mesh).
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node END [polySurface75]
+[2019.05.08-02.27.19:648][283]LogFbx: =================================================
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node START [polySurface86] 
+[2019.05.08-02.27.19:648][283]LogFbx: 	Total Deformer Count 1061149392.
+[2019.05.08-02.27.19:648][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:648][283]LogFbx: 		[Node Attribute Child 1] polySurface86 (Type Mesh).
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node END [polySurface86]
+[2019.05.08-02.27.19:648][283]LogFbx: =================================================
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node START [polySurface87] 
+[2019.05.08-02.27.19:648][283]LogFbx: 	Total Deformer Count 1061149392.
+[2019.05.08-02.27.19:648][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:648][283]LogFbx: 		[Node Attribute Child 1] polySurface87 (Type Mesh).
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node END [polySurface87]
+[2019.05.08-02.27.19:648][283]LogFbx: =================================================
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node START [polySurface88] 
+[2019.05.08-02.27.19:648][283]LogFbx: 	Total Deformer Count 1061149392.
+[2019.05.08-02.27.19:648][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:648][283]LogFbx: 		[Node Attribute Child 1] polySurface88 (Type Mesh).
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node END [polySurface88]
+[2019.05.08-02.27.19:648][283]LogFbx: =================================================
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node START [polySurface91] 
+[2019.05.08-02.27.19:648][283]LogFbx: 	Total Deformer Count 1061149392.
+[2019.05.08-02.27.19:648][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:648][283]LogFbx: 		[Node Attribute Child 1] polySurface91 (Type Mesh).
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node END [polySurface91]
+[2019.05.08-02.27.19:648][283]LogFbx: =================================================
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node START [polySurface90] 
+[2019.05.08-02.27.19:648][283]LogFbx: 	Total Deformer Count 1061149392.
+[2019.05.08-02.27.19:648][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:648][283]LogFbx: 		[Node Attribute Child 1] polySurface90 (Type Mesh).
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node END [polySurface90]
+[2019.05.08-02.27.19:648][283]LogFbx: =================================================
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node START [polySurface89] 
+[2019.05.08-02.27.19:648][283]LogFbx: 	Total Deformer Count 1061149392.
+[2019.05.08-02.27.19:648][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:648][283]LogFbx: 		[Node Attribute Child 1] polySurface89 (Type Mesh).
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node END [polySurface89]
+[2019.05.08-02.27.19:648][283]LogFbx: =================================================
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node START [polySurface94] 
+[2019.05.08-02.27.19:648][283]LogFbx: 	Total Deformer Count 1061149392.
+[2019.05.08-02.27.19:648][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:648][283]LogFbx: 		[Node Attribute Child 1] polySurface94 (Type Mesh).
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node END [polySurface94]
+[2019.05.08-02.27.19:648][283]LogFbx: =================================================
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node START [polySurface93] 
+[2019.05.08-02.27.19:648][283]LogFbx: 	Total Deformer Count 1061149392.
+[2019.05.08-02.27.19:648][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:648][283]LogFbx: 		[Node Attribute Child 1] polySurface93 (Type Mesh).
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node END [polySurface93]
+[2019.05.08-02.27.19:648][283]LogFbx: =================================================
+[2019.05.08-02.27.19:648][283]LogFbx: Dumping Node START [polySurface92] 
+[2019.05.08-02.27.19:648][283]LogFbx: 	Total Deformer Count 1061149392.
+[2019.05.08-02.27.19:649][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:649][283]LogFbx: 		[Node Attribute Child 1] polySurface92 (Type Mesh).
+[2019.05.08-02.27.19:649][283]LogFbx: Dumping Node END [polySurface92]
+[2019.05.08-02.27.19:649][283]LogFbx: =================================================
+[2019.05.08-02.27.19:649][283]LogFbx: Dumping Node START [polySurface95] 
+[2019.05.08-02.27.19:649][283]LogFbx: 	Total Deformer Count 1061149872.
+[2019.05.08-02.27.19:649][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:649][283]LogFbx: 		[Node Attribute Child 1] polySurface95 (Type Mesh).
+[2019.05.08-02.27.19:649][283]LogFbx: Dumping Node END [polySurface95]
+[2019.05.08-02.27.19:649][283]LogFbx: =================================================
+[2019.05.08-02.27.19:649][283]LogFbx: Dumping Node START [polySurface98] 
+[2019.05.08-02.27.19:649][283]LogFbx: 	Total Deformer Count 1061149952.
+[2019.05.08-02.27.19:649][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:649][283]LogFbx: 		[Node Attribute Child 1] polySurface98 (Type Mesh).
+[2019.05.08-02.27.19:649][283]LogFbx: Dumping Node END [polySurface98]
+[2019.05.08-02.27.19:649][283]LogFbx: =================================================
+[2019.05.08-02.27.19:649][283]LogFbx: Dumping Node START [polySurface99] 
+[2019.05.08-02.27.19:649][283]LogFbx: 	Total Deformer Count 1061149952.
+[2019.05.08-02.27.19:649][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:649][283]LogFbx: 		[Node Attribute Child 1] polySurface99 (Type Mesh).
+[2019.05.08-02.27.19:649][283]LogFbx: Dumping Node END [polySurface99]
+[2019.05.08-02.27.19:649][283]LogFbx: =================================================
+[2019.05.08-02.27.19:649][283]LogFbx: Dumping Node START [polySurface9] 
+[2019.05.08-02.27.19:649][283]LogFbx: 	Total Deformer Count 1061149392.
+[2019.05.08-02.27.19:649][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:649][283]LogFbx: 		[Node Attribute Child 1] polySurface9 (Type Mesh).
+[2019.05.08-02.27.19:649][283]LogFbx: Dumping Node END [polySurface9]
+[2019.05.08-02.27.19:650][283]LogFbx: =================================================
+[2019.05.08-02.27.19:650][283]LogFbx: Dumping Node START [Geo_Thigh_L] 
+[2019.05.08-02.27.19:650][283]LogFbx: 	Total Deformer Count 1059014144.
+[2019.05.08-02.27.19:650][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:650][283]LogFbx: 		[Node Attribute Child 1] Geo_Thigh_L (Type Mesh).
+[2019.05.08-02.27.19:650][283]LogFbx: Dumping Node END [Geo_Thigh_L]
+[2019.05.08-02.27.19:650][283]LogFbx: =================================================
+[2019.05.08-02.27.19:650][283]LogFbx: Dumping Node START [Geo_Calf_L] 
+[2019.05.08-02.27.19:650][283]LogFbx: 	Total Deformer Count 1059013632.
+[2019.05.08-02.27.19:650][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:650][283]LogFbx: 		[Node Attribute Child 1] Geo_Calf_L (Type Mesh).
+[2019.05.08-02.27.19:650][283]LogFbx: Dumping Node END [Geo_Calf_L]
+[2019.05.08-02.27.19:650][283]LogFbx: =================================================
+[2019.05.08-02.27.19:650][283]LogFbx: Dumping Node START [polySurface75] 
+[2019.05.08-02.27.19:650][283]LogFbx: 	Total Deformer Count 1061150112.
+[2019.05.08-02.27.19:650][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:650][283]LogFbx: 		[Node Attribute Child 1] polySurface75 (Type Mesh).
+[2019.05.08-02.27.19:650][283]LogFbx: Dumping Node END [polySurface75]
+[2019.05.08-02.27.19:650][283]LogFbx: =================================================
+[2019.05.08-02.27.19:650][283]LogFbx: Dumping Node START [polySurface86] 
+[2019.05.08-02.27.19:650][283]LogFbx: 	Total Deformer Count 1061150112.
+[2019.05.08-02.27.19:650][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:650][283]LogFbx: 		[Node Attribute Child 1] polySurface86 (Type Mesh).
+[2019.05.08-02.27.19:650][283]LogFbx: Dumping Node END [polySurface86]
+[2019.05.08-02.27.19:650][283]LogFbx: =================================================
+[2019.05.08-02.27.19:650][283]LogFbx: Dumping Node START [polySurface87] 
+[2019.05.08-02.27.19:650][283]LogFbx: 	Total Deformer Count 1061150112.
+[2019.05.08-02.27.19:650][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:650][283]LogFbx: 		[Node Attribute Child 1] polySurface87 (Type Mesh).
+[2019.05.08-02.27.19:650][283]LogFbx: Dumping Node END [polySurface87]
+[2019.05.08-02.27.19:650][283]LogFbx: =================================================
+[2019.05.08-02.27.19:650][283]LogFbx: Dumping Node START [polySurface88] 
+[2019.05.08-02.27.19:650][283]LogFbx: 	Total Deformer Count 1061150112.
+[2019.05.08-02.27.19:650][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:650][283]LogFbx: 		[Node Attribute Child 1] polySurface88 (Type Mesh).
+[2019.05.08-02.27.19:650][283]LogFbx: Dumping Node END [polySurface88]
+[2019.05.08-02.27.19:650][283]LogFbx: =================================================
+[2019.05.08-02.27.19:650][283]LogFbx: Dumping Node START [polySurface91] 
+[2019.05.08-02.27.19:650][283]LogFbx: 	Total Deformer Count 1061150112.
+[2019.05.08-02.27.19:650][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:650][283]LogFbx: 		[Node Attribute Child 1] polySurface91 (Type Mesh).
+[2019.05.08-02.27.19:650][283]LogFbx: Dumping Node END [polySurface91]
+[2019.05.08-02.27.19:651][283]LogFbx: =================================================
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node START [polySurface90] 
+[2019.05.08-02.27.19:652][283]LogFbx: 	Total Deformer Count 1061150112.
+[2019.05.08-02.27.19:652][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:652][283]LogFbx: 		[Node Attribute Child 1] polySurface90 (Type Mesh).
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node END [polySurface90]
+[2019.05.08-02.27.19:652][283]LogFbx: =================================================
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node START [polySurface89] 
+[2019.05.08-02.27.19:652][283]LogFbx: 	Total Deformer Count 1061150112.
+[2019.05.08-02.27.19:652][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:652][283]LogFbx: 		[Node Attribute Child 1] polySurface89 (Type Mesh).
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node END [polySurface89]
+[2019.05.08-02.27.19:652][283]LogFbx: =================================================
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node START [polySurface94] 
+[2019.05.08-02.27.19:652][283]LogFbx: 	Total Deformer Count 1061150112.
+[2019.05.08-02.27.19:652][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:652][283]LogFbx: 		[Node Attribute Child 1] polySurface94 (Type Mesh).
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node END [polySurface94]
+[2019.05.08-02.27.19:652][283]LogFbx: =================================================
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node START [polySurface93] 
+[2019.05.08-02.27.19:652][283]LogFbx: 	Total Deformer Count 1061150112.
+[2019.05.08-02.27.19:652][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:652][283]LogFbx: 		[Node Attribute Child 1] polySurface93 (Type Mesh).
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node END [polySurface93]
+[2019.05.08-02.27.19:652][283]LogFbx: =================================================
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node START [polySurface92] 
+[2019.05.08-02.27.19:652][283]LogFbx: 	Total Deformer Count 1061150112.
+[2019.05.08-02.27.19:652][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:652][283]LogFbx: 		[Node Attribute Child 1] polySurface92 (Type Mesh).
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node END [polySurface92]
+[2019.05.08-02.27.19:652][283]LogFbx: =================================================
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node START [polySurface95] 
+[2019.05.08-02.27.19:652][283]LogFbx: 	Total Deformer Count 1061151392.
+[2019.05.08-02.27.19:652][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:652][283]LogFbx: 		[Node Attribute Child 1] polySurface95 (Type Mesh).
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node END [polySurface95]
+[2019.05.08-02.27.19:652][283]LogFbx: =================================================
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node START [polySurface98] 
+[2019.05.08-02.27.19:652][283]LogFbx: 	Total Deformer Count 1061151632.
+[2019.05.08-02.27.19:652][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:652][283]LogFbx: 		[Node Attribute Child 1] polySurface98 (Type Mesh).
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node END [polySurface98]
+[2019.05.08-02.27.19:652][283]LogFbx: =================================================
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node START [polySurface99] 
+[2019.05.08-02.27.19:652][283]LogFbx: 	Total Deformer Count 1061151632.
+[2019.05.08-02.27.19:652][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:652][283]LogFbx: 		[Node Attribute Child 1] polySurface99 (Type Mesh).
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node END [polySurface99]
+[2019.05.08-02.27.19:652][283]LogFbx: =================================================
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node START [Geo_Thigh_L] 
+[2019.05.08-02.27.19:652][283]LogFbx: 	Total Deformer Count 1059020480.
+[2019.05.08-02.27.19:652][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:652][283]LogFbx: 		[Node Attribute Child 1] Geo_Thigh_L (Type Mesh).
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node END [Geo_Thigh_L]
+[2019.05.08-02.27.19:652][283]LogFbx: =================================================
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node START [Geo_Calf_L] 
+[2019.05.08-02.27.19:652][283]LogFbx: 	Total Deformer Count 1059021248.
+[2019.05.08-02.27.19:652][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:652][283]LogFbx: 		[Node Attribute Child 1] Geo_Calf_L (Type Mesh).
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node END [Geo_Calf_L]
+[2019.05.08-02.27.19:652][283]LogFbx: =================================================
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node START [polySurface75] 
+[2019.05.08-02.27.19:652][283]LogFbx: 	Total Deformer Count 1061151152.
+[2019.05.08-02.27.19:652][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:652][283]LogFbx: 		[Node Attribute Child 1] polySurface75 (Type Mesh).
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node END [polySurface75]
+[2019.05.08-02.27.19:652][283]LogFbx: =================================================
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node START [Geo_Calf_L] 
+[2019.05.08-02.27.19:652][283]LogFbx: 	Total Deformer Count 1059020480.
+[2019.05.08-02.27.19:652][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:652][283]LogFbx: 		[Node Attribute Child 1] Geo_Calf_L (Type Mesh).
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node END [Geo_Calf_L]
+[2019.05.08-02.27.19:652][283]LogFbx: =================================================
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node START [polySurface75] 
+[2019.05.08-02.27.19:652][283]LogFbx: 	Total Deformer Count 1061152112.
+[2019.05.08-02.27.19:652][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:652][283]LogFbx: 		[Node Attribute Child 1] polySurface75 (Type Mesh).
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node END [polySurface75]
+[2019.05.08-02.27.19:652][283]LogFbx: =================================================
+[2019.05.08-02.27.19:652][283]LogFbx: Dumping Node START [polySurface75] 
+[2019.05.08-02.27.19:652][283]LogFbx: 	Total Deformer Count 1061152112.
+[2019.05.08-02.27.19:652][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:652][283]LogFbx: 		[Node Attribute Child 1] polySurface75 (Type Mesh).
+[2019.05.08-02.27.19:653][283]LogFbx: Dumping Node END [polySurface75]
+[2019.05.08-02.27.19:653][283]LogFbx: =================================================
+[2019.05.08-02.27.19:653][283]LogFbx: Dumping Node START [polySurface86] 
+[2019.05.08-02.27.19:653][283]LogFbx: 	Total Deformer Count 1061152112.
+[2019.05.08-02.27.19:653][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:653][283]LogFbx: 		[Node Attribute Child 1] polySurface86 (Type Mesh).
+[2019.05.08-02.27.19:653][283]LogFbx: Dumping Node END [polySurface86]
+[2019.05.08-02.27.19:653][283]LogFbx: =================================================
+[2019.05.08-02.27.19:653][283]LogFbx: Dumping Node START [polySurface87] 
+[2019.05.08-02.27.19:653][283]LogFbx: 	Total Deformer Count 1061152112.
+[2019.05.08-02.27.19:653][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:653][283]LogFbx: 		[Node Attribute Child 1] polySurface87 (Type Mesh).
+[2019.05.08-02.27.19:653][283]LogFbx: Dumping Node END [polySurface87]
+[2019.05.08-02.27.19:653][283]LogFbx: =================================================
+[2019.05.08-02.27.19:653][283]LogFbx: Dumping Node START [polySurface88] 
+[2019.05.08-02.27.19:653][283]LogFbx: 	Total Deformer Count 1061152112.
+[2019.05.08-02.27.19:653][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:653][283]LogFbx: 		[Node Attribute Child 1] polySurface88 (Type Mesh).
+[2019.05.08-02.27.19:653][283]LogFbx: Dumping Node END [polySurface88]
+[2019.05.08-02.27.19:653][283]LogFbx: =================================================
+[2019.05.08-02.27.19:653][283]LogFbx: Dumping Node START [polySurface91] 
+[2019.05.08-02.27.19:653][283]LogFbx: 	Total Deformer Count 1061152112.
+[2019.05.08-02.27.19:653][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:653][283]LogFbx: 		[Node Attribute Child 1] polySurface91 (Type Mesh).
+[2019.05.08-02.27.19:653][283]LogFbx: Dumping Node END [polySurface91]
+[2019.05.08-02.27.19:653][283]LogFbx: =================================================
+[2019.05.08-02.27.19:653][283]LogFbx: Dumping Node START [polySurface90] 
+[2019.05.08-02.27.19:653][283]LogFbx: 	Total Deformer Count 1061152112.
+[2019.05.08-02.27.19:653][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:653][283]LogFbx: 		[Node Attribute Child 1] polySurface90 (Type Mesh).
+[2019.05.08-02.27.19:653][283]LogFbx: Dumping Node END [polySurface90]
+[2019.05.08-02.27.19:653][283]LogFbx: =================================================
+[2019.05.08-02.27.19:653][283]LogFbx: Dumping Node START [polySurface89] 
+[2019.05.08-02.27.19:653][283]LogFbx: 	Total Deformer Count 1061152112.
+[2019.05.08-02.27.19:653][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:653][283]LogFbx: 		[Node Attribute Child 1] polySurface89 (Type Mesh).
+[2019.05.08-02.27.19:653][283]LogFbx: Dumping Node END [polySurface89]
+[2019.05.08-02.27.19:653][283]LogFbx: =================================================
+[2019.05.08-02.27.19:653][283]LogFbx: Dumping Node START [polySurface94] 
+[2019.05.08-02.27.19:653][283]LogFbx: 	Total Deformer Count 1061152112.
+[2019.05.08-02.27.19:653][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:653][283]LogFbx: 		[Node Attribute Child 1] polySurface94 (Type Mesh).
+[2019.05.08-02.27.19:653][283]LogFbx: Dumping Node END [polySurface94]
+[2019.05.08-02.27.19:653][283]LogFbx: =================================================
+[2019.05.08-02.27.19:654][283]LogFbx: Dumping Node START [polySurface93] 
+[2019.05.08-02.27.19:654][283]LogFbx: 	Total Deformer Count 1061152112.
+[2019.05.08-02.27.19:654][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:654][283]LogFbx: 		[Node Attribute Child 1] polySurface93 (Type Mesh).
+[2019.05.08-02.27.19:654][283]LogFbx: Dumping Node END [polySurface93]
+[2019.05.08-02.27.19:655][283]LogFbx: =================================================
+[2019.05.08-02.27.19:655][283]LogFbx: Dumping Node START [polySurface92] 
+[2019.05.08-02.27.19:655][283]LogFbx: 	Total Deformer Count 1061152112.
+[2019.05.08-02.27.19:655][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:655][283]LogFbx: 		[Node Attribute Child 1] polySurface92 (Type Mesh).
+[2019.05.08-02.27.19:655][283]LogFbx: Dumping Node END [polySurface92]
+[2019.05.08-02.27.19:655][283]LogFbx: =================================================
+[2019.05.08-02.27.19:655][283]LogFbx: Dumping Node START [polySurface95] 
+[2019.05.08-02.27.19:655][283]LogFbx: 	Total Deformer Count 1061153072.
+[2019.05.08-02.27.19:655][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:655][283]LogFbx: 		[Node Attribute Child 1] polySurface95 (Type Mesh).
+[2019.05.08-02.27.19:655][283]LogFbx: Dumping Node END [polySurface95]
+[2019.05.08-02.27.19:655][283]LogFbx: =================================================
+[2019.05.08-02.27.19:655][283]LogFbx: Dumping Node START [polySurface98] 
+[2019.05.08-02.27.19:655][283]LogFbx: 	Total Deformer Count 1061152752.
+[2019.05.08-02.27.19:655][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:655][283]LogFbx: 		[Node Attribute Child 1] polySurface98 (Type Mesh).
+[2019.05.08-02.27.19:655][283]LogFbx: Dumping Node END [polySurface98]
+[2019.05.08-02.27.19:655][283]LogFbx: =================================================
+[2019.05.08-02.27.19:655][283]LogFbx: Dumping Node START [polySurface99] 
+[2019.05.08-02.27.19:655][283]LogFbx: 	Total Deformer Count 1061152752.
+[2019.05.08-02.27.19:655][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:655][283]LogFbx: 		[Node Attribute Child 1] polySurface99 (Type Mesh).
+[2019.05.08-02.27.19:655][283]LogFbx: Dumping Node END [polySurface99]
+[2019.05.08-02.27.19:655][283]LogFbx: =================================================
+[2019.05.08-02.27.19:655][283]LogFbx: Dumping Node START [polySurface95] 
+[2019.05.08-02.27.19:655][283]LogFbx: 	Total Deformer Count 1061152112.
+[2019.05.08-02.27.19:655][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:655][283]LogFbx: 		[Node Attribute Child 1] polySurface95 (Type Mesh).
+[2019.05.08-02.27.19:655][283]LogFbx: Dumping Node END [polySurface95]
+[2019.05.08-02.27.19:655][283]LogFbx: =================================================
+[2019.05.08-02.27.19:655][283]LogFbx: Dumping Node START [polySurface98] 
+[2019.05.08-02.27.19:655][283]LogFbx: 	Total Deformer Count 1061152752.
+[2019.05.08-02.27.19:655][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:655][283]LogFbx: 		[Node Attribute Child 1] polySurface98 (Type Mesh).
+[2019.05.08-02.27.19:655][283]LogFbx: Dumping Node END [polySurface98]
+[2019.05.08-02.27.19:655][283]LogFbx: =================================================
+[2019.05.08-02.27.19:655][283]LogFbx: Dumping Node START [polySurface99] 
+[2019.05.08-02.27.19:655][283]LogFbx: 	Total Deformer Count 1061152752.
+[2019.05.08-02.27.19:655][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:655][283]LogFbx: 		[Node Attribute Child 1] polySurface99 (Type Mesh).
+[2019.05.08-02.27.19:655][283]LogFbx: Dumping Node END [polySurface99]
+[2019.05.08-02.27.19:655][283]LogFbx: =================================================
+[2019.05.08-02.27.19:656][283]LogFbx: Dumping Node START [polySurface98] 
+[2019.05.08-02.27.19:656][283]LogFbx: 	Total Deformer Count 1061152112.
+[2019.05.08-02.27.19:656][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:656][283]LogFbx: 		[Node Attribute Child 1] polySurface98 (Type Mesh).
+[2019.05.08-02.27.19:656][283]LogFbx: Dumping Node END [polySurface98]
+[2019.05.08-02.27.19:656][283]LogFbx: =================================================
+[2019.05.08-02.27.19:656][283]LogFbx: Dumping Node START [polySurface99] 
+[2019.05.08-02.27.19:656][283]LogFbx: 	Total Deformer Count 1061152112.
+[2019.05.08-02.27.19:656][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:656][283]LogFbx: 		[Node Attribute Child 1] polySurface99 (Type Mesh).
+[2019.05.08-02.27.19:656][283]LogFbx: Dumping Node END [polySurface99]
+[2019.05.08-02.27.19:656][283]LogFbx: =================================================
+[2019.05.08-02.27.19:656][283]LogFbx: Dumping Node START [polySurface9] 
+[2019.05.08-02.27.19:657][283]LogFbx: 	Total Deformer Count 1061152112.
+[2019.05.08-02.27.19:657][283]LogFbx: 	Attribute () Type (4).
+[2019.05.08-02.27.19:657][283]LogFbx: 		[Node Attribute Child 1] polySurface9 (Type Mesh).
+[2019.05.08-02.27.19:657][283]LogFbx: Dumping Node END [polySurface9]
+[2019.05.08-02.27.20:055][283]LogMaterial: Warning: Material /Game/lambert2.lambert2 needed to have new flag set bUsedWithSkeletalMesh !
+[2019.05.08-02.27.20:062][283]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2019.05.08-02.27.20:274][283]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.05.08-02.27.20:274][283]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.08-02.27.20:274][283]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.08-02.27.20:274][283]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.08-02.27.20:274][283]LogLinker: Can't find file '/Game/CLY_zB_Man2'
+[2019.05.08-02.27.20:274][283]LogLinker: Can't find file '/Game/CLY_zB_Man2'
+[2019.05.08-02.27.20:360][283]LogTexture: Display: Building textures: CLY_zB_Man2 (AutoDXT, 2048X2048)
+[2019.05.08-02.27.21:150][283]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2019.05.08-02.27.21:232][283]LogFbx: Triangulating skeletal mesh Geo_Thigh_L
+[2019.05.08-02.27.21:280][283]LogFbx: Triangulating skeletal mesh Geo_Calf_L
+[2019.05.08-02.27.21:323][283]LogFbx: Triangulating skeletal mesh polySurface75
+[2019.05.08-02.27.21:366][283]LogFbx: Triangulating skeletal mesh polySurface86
+[2019.05.08-02.27.21:400][283]LogFbx: Triangulating skeletal mesh polySurface87
+[2019.05.08-02.27.21:457][283]LogFbx: Triangulating skeletal mesh polySurface88
+[2019.05.08-02.27.21:490][283]LogFbx: Triangulating skeletal mesh polySurface91
+[2019.05.08-02.27.21:523][283]LogFbx: Triangulating skeletal mesh polySurface90
+[2019.05.08-02.27.21:573][283]LogFbx: Triangulating skeletal mesh polySurface89
+[2019.05.08-02.27.21:615][283]LogFbx: Triangulating skeletal mesh polySurface94
+[2019.05.08-02.27.21:650][283]LogFbx: Triangulating skeletal mesh polySurface93
+[2019.05.08-02.27.21:703][283]LogFbx: Triangulating skeletal mesh polySurface92
+[2019.05.08-02.27.21:745][283]LogFbx: Triangulating skeletal mesh polySurface95
+[2019.05.08-02.27.21:792][283]LogFbx: Triangulating skeletal mesh polySurface98
+[2019.05.08-02.27.21:834][283]LogFbx: Triangulating skeletal mesh polySurface99
+[2019.05.08-02.27.21:897][283]LogFbx: Warning: Bones digested - 18  Depth of hierarchy - 4
+[2019.05.08-02.27.22:212][283]LogSkeletalMesh: Section 0: 4238 vertices, 15 active bones
+[2019.05.08-02.27.22:213][283]LogSkeletalMesh: Section 0: Material=0, 7732 triangles
+[2019.05.08-02.27.22:216][283]LogSkeletalMesh: Building Skeletal Mesh ManPosed_Geo_Thigh_L...
+[2019.05.08-02.27.22:230][283]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/ManPosed.ManPosed_Geo_Thigh_L
+[2019.05.08-02.27.22:236][283]LogLinker: Can't find file '/Game/ManPosed_Geo_Thigh_L_Skeleton'
+[2019.05.08-02.27.22:236][283]LogLinker: Can't find file '/Game/ManPosed_Geo_Thigh_L_Skeleton'
+[2019.05.08-02.27.22:241][283]LogLinker: Can't find file '/Game/ManPosed_Geo_Thigh_L_PhysicsAsset'
+[2019.05.08-02.27.22:241][283]LogLinker: Can't find file '/Game/ManPosed_Geo_Thigh_L_PhysicsAsset'
+[2019.05.08-02.27.22:254][283]LogSkeletalMesh: Building Skeletal Mesh ManPosed_Geo_Thigh_L...
+[2019.05.08-02.27.22:267][283]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/ManPosed.ManPosed_Geo_Thigh_L
+[2019.05.08-02.27.22:275][283]LogMaterial: Warning: Material /Game/lambert3.lambert3 needed to have new flag set bUsedWithSkeletalMesh !
+[2019.05.08-02.27.22:278][283]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2019.05.08-02.27.22:346][283]LogLinker: Can't find file '/Game/CLY_FFXIII_Staff_zTool'
+[2019.05.08-02.27.22:346][283]LogLinker: Can't find file '/Game/CLY_FFXIII_Staff_zTool'
+[2019.05.08-02.27.22:419][283]LogTexture: Display: Building textures: CLY_FFXIII_Staff_zTool (AutoDXT, 2048X2048)
+[2019.05.08-02.27.22:837][283]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2019.05.08-02.27.22:911][283]LogFbx: Triangulating skeletal mesh polySurface9
+[2019.05.08-02.27.23:618][283]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2019.05.08-02.27.23:916][283]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.05.08-02.27.23:972][283]LogSkeletalMesh: Section 0: 4817 vertices, 1 active bones
+[2019.05.08-02.27.23:973][283]LogSkeletalMesh: Section 0: Material=0, 8904 triangles
+[2019.05.08-02.27.23:974][283]LogSkeletalMesh: Building Skeletal Mesh ManPosed_polySurface9...
+[2019.05.08-02.27.23:988][283]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/ManPosed.ManPosed_polySurface9
+[2019.05.08-02.27.23:993][283]LogLinker: Can't find file '/Game/ManPosed_polySurface9_Skeleton'
+[2019.05.08-02.27.23:994][283]LogLinker: Can't find file '/Game/ManPosed_polySurface9_Skeleton'
+[2019.05.08-02.27.23:998][283]LogLinker: Can't find file '/Game/ManPosed_polySurface9_PhysicsAsset'
+[2019.05.08-02.27.23:998][283]LogLinker: Can't find file '/Game/ManPosed_polySurface9_PhysicsAsset'
+[2019.05.08-02.27.24:008][283]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2019.05.08-02.27.24:016][283]LogSkeletalMesh: Building Skeletal Mesh ManPosed_polySurface9...
+[2019.05.08-02.27.24:030][283]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/ManPosed.ManPosed_polySurface9
+[2019.05.08-02.27.24:051][283]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.05.08-02.27.24:051][283]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.05.08-02.27.24:051][283]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.05.08-02.27.24:051][283]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.05.08-02.27.24:051][283]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.05.08-02.27.24:051][283]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.05.08-02.27.24:051][283]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.05.08-02.27.24:051][283]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.05.08-02.27.24:051][283]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.05.08-02.27.24:051][283]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.05.08-02.27.24:051][283]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.05.08-02.27.24:051][283]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.05.08-02.27.24:052][283]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2019.05.08-02.27.24:052][283]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2019.05.08-02.27.24:067][283]LogSkeletalMesh: Building Skeletal Mesh ManPosed_polySurface9...
+[2019.05.08-02.27.24:091][283]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ManPosed.ManPosed_polySurface9
+[2019.05.08-02.27.25:005][304]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.05.08-02.27.26:064][329]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.05.08-02.27.26:353][335]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.05.08-02.27.27:211][351]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.05.08-02.27.30:066][406]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.05.08-02.27.30:598][417]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.05.08-02.27.31:083][427]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.08-02.27.31:846][442]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.08-02.27.34:075][486]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.08-02.27.35:416][514]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.08-02.27.35:937][525]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.08-02.27.47:024][640]LogSlate: Window 'Message Log' being destroyed
+[2019.05.08-02.27.47:030][640]LogSlate: Window 'Message Log' being destroyed
+[2019.05.08-02.28.03:137][685]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.08-02.28.30:679][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ManPosed" FILE="../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/ManPosed.uasset" SILENT=true
+[2019.05.08-02.28.30:830][345]LogSavePackage: Moving '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/ManPosed76D944B3464B16E7232D04B1285AA60E.tmp' to '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/ManPosed.uasset'
+[2019.05.08-02.28.30:928][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert2" FILE="../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/lambert2.uasset" SILENT=true
+[2019.05.08-02.28.31:003][345]LogSavePackage: Moving '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/lambert2722A1B3341C923B4EAC1C19423B6AEE6.tmp' to '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/lambert2.uasset'
+[2019.05.08-02.28.31:053][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CLY_zB_Man2" FILE="../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/CLY_zB_Man2.uasset" SILENT=true
+[2019.05.08-02.28.31:448][345]LogSavePackage: Moving '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/CLY_zB_Man22B3067F0411F86E17B192E9AA75C335B.tmp' to '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/CLY_zB_Man2.uasset'
+[2019.05.08-02.28.31:472][345]LogSavePackage: Moving '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/ManPosed_Geo_Thigh_L_SkeletonD575CD1A4D5524EADF817EAC250A15C9.tmp' to '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/ManPosed_Geo_Thigh_L_Skeleton.uasset'
+[2019.05.08-02.28.31:603][345]LogSavePackage: Moving '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/ManPosed_Geo_Thigh_L_PhysicsAsse54536BBB491113CFF0740D9316DBCB3C.tmp' to '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/ManPosed_Geo_Thigh_L_PhysicsAsset.uasset'
+[2019.05.08-02.28.31:682][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert3" FILE="../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/lambert3.uasset" SILENT=true
+[2019.05.08-02.28.31:722][345]LogSavePackage: Moving '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/lambert384878E7B4F526819B2A406BBAEB020F3.tmp' to '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/lambert3.uasset'
+[2019.05.08-02.28.32:171][345]LogSavePackage: Moving '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/CLY_FFXIII_Staff_zToolAC777F2E46DFAE1E0B2DB792D961340B.tmp' to '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/CLY_FFXIII_Staff_zTool.uasset'
+[2019.05.08-02.28.32:208][345]LogSavePackage: Moving '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/ManPosed_polySurface9_SkeletonEBC1DA9145C814D15B03D6AF4A481D7A.tmp' to '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/ManPosed_polySurface9_Skeleton.uasset'
+[2019.05.08-02.28.32:342][345]LogSavePackage: Moving '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/ManPosed_polySurface9_PhysicsAssAD951694464868948CD3B2A7E9E7AB7D.tmp' to '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/ManPosed_polySurface9_PhysicsAsset.uasset'
+[2019.05.08-02.30.11:278][ 35]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/black/Documents/GitHub/CartTextured.fbx)
+[2019.05.08-02.30.11:347][ 35]LogFbx: Loading FBX Scene from ../../../../../../Users/black/Documents/GitHub/CartTextured.fbx
+[2019.05.08-02.30.11:372][ 35]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.08-02.30.18:945][ 35]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.08-02.30.19:070][ 35]Error: Texture import failed
+[2019.05.08-02.30.19:118][ 35]Error: Texture import failed
+[2019.05.08-02.30.19:123][ 35]LogMaterial: Display: Missing cached shader map for material Trellis, compiling. 
+[2019.05.08-02.30.19:152][ 35]LogFbx: Warning: Triangulating static mesh Cart:pPlane8polySurface14
+[2019.05.08-02.30.20:348][ 35]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.08-02.30.20:348][ 35]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.08-02.30.20:348][ 35]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.08-02.30.20:461][ 35]LogStaticMesh: Building static mesh CartTextured...
+[2019.05.08-02.30.21:073][ 35]LogStaticMesh: Built static mesh [0.61s] /Game/CartTextured.CartTextured
+[2019.05.08-02.30.21:121][ 35]LogStaticMesh: Warning: CartTextured has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.05.08-02.30.21:183][ 35]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.05.08-02.30.21:183][ 35]FBXImport: Warning: CartTextured has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.05.08-02.30.32:455][353]LogSlate: Window 'Message Log' being destroyed
+[2019.05.08-02.30.32:500][353]LogSlate: Window 'Message Log' being destroyed
+[2019.05.08-02.30.51:464][645]LogAIModule: Creating AISystem for world CLY_StreetLevel
+[2019.05.08-02.30.51:561][645]LogAssetEditorManager: Opening Asset editor for World /Game/CLY_StreetLevel.CLY_StreetLevel
+[2019.05.08-02.30.55:719][645]LogSlate: Window 'Save Content' being destroyed
+[2019.05.08-02.30.55:773][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CartTextured" FILE="../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/CartTextured.uasset" SILENT=true
+[2019.05.08-02.30.55:821][645]LogSavePackage: Moving '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/CartTexturedDED7BEDE4B7997D0BC22C5A3F6FE2DE2.tmp' to '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/CartTextured.uasset'
+[2019.05.08-02.30.55:876][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Trellis" FILE="../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/Trellis.uasset" SILENT=true
+[2019.05.08-02.30.55:934][645]LogSavePackage: Moving '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/Trellis827844FA4EB0E3187F7C0E82F70CEEDF.tmp' to '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/Trellis.uasset'
+[2019.05.08-02.30.55:946][645]Cmd: MAP LOAD FILE="../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/CLY_StreetLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.08-02.30.55:946][645]LightingResults: New page: Lighting Build
+[2019.05.08-02.30.55:948][645]LoadErrors: New page: Loading map: CLY_StreetLevel.umap
+[2019.05.08-02.30.55:950][645]MapCheck: New page: Map Check
+[2019.05.08-02.30.55:950][645]LightingResults: New page: Lighting Build
+[2019.05.08-02.30.56:363][645]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.05.08-02.30.56:547][645]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.08-02.30.56:737][645]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 190.376ms to complete.
+[2019.05.08-02.30.56:741][645]LogFileHelpers: Loading map 'CLY_StreetLevel' took 0.795
+[2019.05.08-02.31.02:845][782]LogActorFactory: Actor Factory created CartTextured
+[2019.05.08-02.31.04:556][830]LogActorFactory: Actor Factory created CartTextured
+[2019.05.08-02.31.08:598][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-02.31.33:889][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-02.31.45:854][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-02.31.49:935][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-02.32.07:830][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CartTextured)
+[2019.05.08-02.32.21:403][743]Cmd: TRANSACTION UNDO
+[2019.05.08-02.32.21:403][743]LogEditorTransaction: Undo Rotate Actors
+[2019.05.08-02.33.14:238][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-02.33.30:400][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-02.33.40:717][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-02.34.57:353][738]Cmd: TRANSACTION UNDO
+[2019.05.08-02.34.57:353][738]LogEditorTransaction: Undo Move Actors
+[2019.05.08-02.35.09:750][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-02.35.15:688][175]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.08-02.36.10:177][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-02.36.15:054][494]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/CartTextured.CartTextured
+[2019.05.08-02.36.16:395][494]LogRenderer: Reallocating scene render targets to support 1188x708 Format 10 NumSamples 1 (Frame:1).
+[2019.05.08-02.36.16:396][494]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.08-02.36.59:696][301]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-02.37.13:348][567]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-02.37.25:562][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CartTextured" FILE="../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/CartTextured.uasset" SILENT=true
+[2019.05.08-02.37.25:809][668]LogSavePackage: Moving '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Saved/CartTextured978B5F8D4ED976A55E5E07BDCB517956.tmp' to '../../../../../../Users/black/Documents/GitHub/cly_AssetPipeline/cly_iCWB_AP/firstProject/Content/CartTextured.uasset'
+[2019.05.08-02.37.28:466][733]LogSlate: Window 'CartTextured' being destroyed
+[2019.05.08-02.37.38:197][900]LogAssetEditorManager: Opening Asset editor for Material /Game/Trellis.Trellis
+[2019.05.08-02.37.38:204][900]LogMaterial: Display: Missing cached shader map for material Trellis, compiling. 
+[2019.05.08-02.37.38:566][900]LogMaterial: Display: Missing cached shader map for material Trellis, compiling. 
+[2019.05.08-02.37.38:593][900]LogMaterial: Display: Missing cached shader map for material Trellis, compiling. 
+[2019.05.08-02.37.38:635][900]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.08-02.37.38:635][900]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.08-02.37.38:635][900]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.08-02.37.38:635][900]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.08-02.37.38:665][900]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.08-02.37.38:749][900]LogSlate: Took 0.010072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.08-02.37.39:438][913]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.08-02.37.39:522][915]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.08-02.37.39:538][916]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.08-02.37.39:549][916]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.08-02.37.39:723][921]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.08-02.37.39:786][923]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.08-02.37.39:813][924]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.08-02.37.39:827][924]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.08-02.37.39:988][929]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.08-02.37.40:205][936]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.08-02.37.40:420][942]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.08-02.37.40:478][944]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.08-02.37.40:619][948]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.08-02.37.40:806][954]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.08-02.37.40:881][956]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.08-02.37.41:148][964]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.08-02.37.41:180][965]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.08-02.37.41:308][969]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.08-02.37.41:437][973]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.08-02.37.41:763][982]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.05.08-02.37.41:763][982]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.05.08-02.37.41:763][982]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.08-02.37.41:763][982]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.08-02.37.54:208][272]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.08-02.38.12:977][588]LogAssetEditorManager: Opening Asset editor for Material /Game/lambert1.lambert1
+[2019.05.08-02.38.12:982][588]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2019.05.08-02.38.13:289][588]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2019.05.08-02.38.13:351][588]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2019.05.08-02.38.13:424][588]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.05.08-02.38.13:425][588]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.05.08-02.38.13:425][588]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.05.08-02.38.13:425][588]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.05.08-02.38.13:453][588]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.05.08-02.38.13:463][588]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.05.08-02.38.13:473][588]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2019.05.08-02.38.13:485][588]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.05.08-02.38.14:236][604]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.05.08-02.38.14:345][606]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.05.08-02.38.14:345][606]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.05.08-02.38.14:367][606]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.05.08-02.38.14:535][609]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.05.08-02.38.14:622][611]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.05.08-02.38.14:646][612]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.05.08-02.38.14:657][612]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.05.08-02.38.14:818][617]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.05.08-02.38.15:081][625]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.05.08-02.38.15:284][631]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.05.08-02.38.15:363][633]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.05.08-02.38.15:478][637]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.05.08-02.38.15:695][643]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.05.08-02.38.15:752][645]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.05.08-02.38.15:992][652]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.05.08-02.38.16:114][656]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.05.08-02.38.16:125][656]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.05.08-02.38.16:423][665]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.05.08-02.38.16:510][667]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.05.08-02.38.16:676][672]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.05.08-02.38.16:787][675]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.05.08-02.38.16:902][677]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.08-02.38.17:134][691]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.05.08-02.38.17:397][707]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.05.08-02.38.17:509][714]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.05.08-02.38.17:646][722]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.05.08-02.38.17:856][735]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.05.08-02.38.17:966][740]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.05.08-02.38.18:087][744]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.05.08-02.38.18:122][745]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.08-02.38.18:220][748]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.08-02.38.18:332][751]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.08-02.38.18:554][758]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.08-02.38.18:579][759]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.08-02.38.18:579][759]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.08-02.38.18:662][761]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.08-02.38.19:025][772]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.08-02.38.19:248][777]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.08-02.38.19:297][780]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.08-02.38.19:344][782]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.08-02.38.19:683][791]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.08-02.38.19:714][792]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.08-02.38.19:960][795]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.08-02.38.20:030][796]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.08-02.38.20:073][797]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.08-02.38.20:250][800]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.08-02.38.20:440][803]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.08-02.38.20:454][803]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.08-02.38.20:543][804]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.08-02.38.20:589][805]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.08-02.38.20:743][807]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.08-02.38.20:783][808]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.08-02.38.20:812][808]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.08-02.38.20:876][809]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.08-02.38.21:007][812]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.08-02.38.21:278][820]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.08-02.38.21:430][824]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.08-02.38.21:484][826]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.08-02.38.21:624][830]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.08-02.38.21:841][837]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.08-02.38.21:956][840]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.08-02.38.22:166][845]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.08-02.38.22:222][848]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.08-02.38.22:340][852]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.08-02.38.22:510][857]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.08-02.38.22:621][860]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.08-02.38.22:772][865]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.08-02.38.22:830][866]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.05.08-02.38.22:830][866]MaterialEditorStats: Base pass shader with Surface Lightmap: 127 instructions
+[2019.05.08-02.38.22:831][866]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.05.08-02.38.22:831][866]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.05.08-02.38.22:831][866]MaterialEditorStats: Base pass vertex shader: 88 instructions
+[2019.05.08-02.38.22:831][866]MaterialEditorStats: Texture samplers: 4/16
+[2019.05.08-02.38.22:831][866]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.05.08-02.38.22:831][866]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.05.08-02.38.22:839][867]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.08-02.38.22:884][868]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.08-02.38.23:004][871]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.lambert1:MaterialGraph_0.MaterialGraphNode_15 or MaterialGraphNode /Engine/Transient.Trellis:MaterialGraph_0.MaterialGraphNode_15
+[2019.05.08-02.38.23:005][871]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_15.MaterialExpressionVectorParameter_1"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.05.08-02.38.23:005][871]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.lambert1:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.Trellis:MaterialGraph_0.MaterialGraphNode_5
+[2019.05.08-02.38.23:005][871]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSampleParameter2D'"MaterialGraphNode_5.MaterialExpressionTextureSampleParameter2D_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.05.08-02.38.23:009][871]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.lambert1:MaterialGraph_0.MaterialGraphNode_14 or MaterialGraphNode /Engine/Transient.Trellis:MaterialGraph_0.MaterialGraphNode_14
+[2019.05.08-02.38.23:009][871]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_14.MaterialExpressionAdd_0"')'
+[2019.05.08-02.38.23:010][871]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.lambert1:MaterialGraph_0.MaterialGraphNode_14 or MaterialGraphNode /Engine/Transient.Trellis:MaterialGraph_0.MaterialGraphNode_14
+[2019.05.08-02.38.23:011][871]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_14.MaterialExpressionAdd_0"')'
+[2019.05.08-02.38.23:013][871]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.lambert1:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.Trellis:MaterialGraph_0.MaterialGraphNode_7
+[2019.05.08-02.38.23:013][871]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_7.MaterialExpressionScalarParameter_0"')'
+[2019.05.08-02.38.23:013][871]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.lambert1:MaterialGraph_0.MaterialGraphNode_8 or MaterialGraphNode /Engine/Transient.Trellis:MaterialGraph_0.MaterialGraphNode_8
+[2019.05.08-02.38.23:013][871]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_8.MaterialExpressionScalarParameter_1"')'
+[2019.05.08-02.38.23:015][871]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.lambert1:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.Trellis:MaterialGraph_0.MaterialGraphNode_6
+[2019.05.08-02.38.23:015][871]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_6.MaterialExpressionTextureCoordinate_0"')'
+[2019.05.08-02.38.23:015][871]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.lambert1:MaterialGraph_0.MaterialGraphNode_11 or MaterialGraphNode /Engine/Transient.Trellis:MaterialGraph_0.MaterialGraphNode_11
+[2019.05.08-02.38.23:015][871]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAppendVector'"MaterialGraphNode_11.MaterialExpressionAppendVector_0"')'
+[2019.05.08-02.38.23:015][871]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.lambert1:MaterialGraph_0.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.Trellis:MaterialGraph_0.MaterialGraphNode_10
+[2019.05.08-02.38.23:015][871]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_10.MaterialExpressionScalarParameter_3"')'
+[2019.05.08-02.38.23:016][871]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.lambert1:MaterialGraph_0.MaterialGraphNode_9 or MaterialGraphNode /Engine/Transient.Trellis:MaterialGraph_0.MaterialGraphNode_9
+[2019.05.08-02.38.23:016][871]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_9.MaterialExpressionScalarParameter_2"')'
+[2019.05.08-02.38.23:016][871]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.lambert1:MaterialGraph_0.MaterialGraphNode_12 or MaterialGraphNode /Engine/Transient.Trellis:MaterialGraph_0.MaterialGraphNode_12
+[2019.05.08-02.38.23:016][871]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_12.MaterialExpressionMultiply_0"')'
+[2019.05.08-02.38.23:017][871]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.lambert1:MaterialGraph_0.MaterialGraphNode_13 or MaterialGraphNode /Engine/Transient.Trellis:MaterialGraph_0.MaterialGraphNode_13
+[2019.05.08-02.38.23:017][871]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAppendVector'"MaterialGraphNode_13.MaterialExpressionAppendVector_1"')'
+[2019.05.08-02.38.23:049][871]LogMaterial: Display: Missing cached shader map for material Trellis, compiling. 
+[2019.05.08-02.38.23:086][871]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.05.08-02.38.23:099][871]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.05.08-02.38.23:111][871]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2019.05.08-02.38.23:119][871]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.08-02.38.23:119][871]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.05.08-02.38.23:167][872]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.08-02.38.23:265][878]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.08-02.38.23:336][880]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.08-02.38.23:527][886]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.08-02.38.23:600][888]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.08-02.38.23:640][889]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.08-02.38.23:695][891]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.08-02.38.23:858][894]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.08-02.38.23:871][894]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.08-02.38.23:900][894]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.08-02.38.23:942][895]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.08-02.38.24:073][897]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.08-02.38.24:107][897]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.08-02.38.24:136][898]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.08-02.38.24:463][905]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.08-02.38.24:511][905]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.08-02.38.24:678][910]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.08-02.38.24:734][912]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.08-02.38.24:878][914]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.08-02.38.25:056][917]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.08-02.38.25:231][920]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.08-02.38.25:289][921]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.08-02.38.25:376][922]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.08-02.38.25:563][925]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.08-02.38.25:622][926]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.08-02.38.25:777][928]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.08-02.38.25:829][929]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.08-02.38.25:875][929]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.05.08-02.38.25:875][929]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.05.08-02.38.25:875][929]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.08-02.38.25:875][929]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.08-02.38.25:908][930]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.08-02.38.26:071][932]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.08-02.38.26:118][933]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.08-02.38.29:371][992]LogMaterial: Display: Missing cached shader map for material Trellis, compiling. 
+[2019.05.08-02.38.29:435][992]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.08-02.38.29:435][992]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.08-02.38.29:435][992]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.08-02.38.29:436][992]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.08-02.38.29:445][992]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.05.08-02.38.29:497][992]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.05.08-02.38.29:552][992]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2019.05.08-02.38.29:608][992]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.05.08-02.38.29:906][  2]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.08-02.38.29:950][  3]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.08-02.38.29:964][  3]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.08-02.38.29:976][  3]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.08-02.38.30:157][  6]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.08-02.38.30:180][  6]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.08-02.38.30:206][  7]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.08-02.38.30:214][  7]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.08-02.38.30:393][  9]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.08-02.38.30:555][ 12]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.08-02.38.30:756][ 14]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.08-02.38.30:810][ 15]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.08-02.38.30:959][ 17]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.08-02.38.31:090][ 19]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.08-02.38.31:136][ 20]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.08-02.38.31:426][ 28]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.08-02.38.31:470][ 30]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.08-02.38.31:637][ 35]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.08-02.38.31:690][ 36]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.08-02.38.31:829][ 40]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.08-02.38.31:866][ 40]LogMaterial: Display: Missing cached shader map for material Trellis, compiling. 
+[2019.05.08-02.38.32:033][ 45]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.08-02.38.32:153][ 52]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.08-02.38.32:240][ 55]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.08-02.38.32:391][ 57]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.08-02.38.32:419][ 58]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.08-02.38.32:596][ 62]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.08-02.38.32:621][ 63]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.08-02.38.32:780][ 67]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.08-02.38.32:873][ 69]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.08-02.38.32:944][ 70]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.08-02.38.32:955][ 70]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.08-02.38.33:084][ 72]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.08-02.38.33:138][ 73]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.08-02.38.33:213][ 74]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.08-02.38.33:227][ 74]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.08-02.38.33:338][ 74]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.08-02.38.33:352][ 74]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.08-02.38.33:464][ 77]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.08-02.38.33:707][ 81]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.08-02.38.33:798][ 82]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.08-02.38.33:952][ 86]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.08-02.38.34:060][ 89]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.08-02.38.34:184][ 93]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.08-02.38.34:334][ 97]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.08-02.38.34:559][104]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.08-02.38.34:619][106]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.08-02.38.35:281][124]LogMaterial: Display: Missing cached shader map for material Trellis, compiling. 
+[2019.05.08-02.38.35:304][124]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.08-02.38.35:304][124]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.08-02.38.35:304][124]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.08-02.38.35:304][124]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.08-02.38.35:738][136]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.08-02.38.35:773][137]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.08-02.38.35:790][137]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.08-02.38.35:802][137]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.08-02.38.36:007][142]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.08-02.38.36:024][143]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.08-02.38.36:038][143]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.08-02.38.36:067][143]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.08-02.38.36:242][146]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.08-02.38.36:395][148]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.08-02.38.36:619][152]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.08-02.38.36:633][152]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.08-02.38.36:798][154]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.08-02.38.36:960][157]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.08-02.38.36:989][157]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.08-02.38.37:249][161]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.08-02.38.37:321][162]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.08-02.38.37:910][171]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.05.08-02.38.37:910][171]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.05.08-02.38.37:910][171]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.08-02.38.37:911][171]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.08-02.38.38:397][184]LogMaterial: Display: Missing cached shader map for material Trellis, compiling. 
+[2019.05.08-02.38.38:581][185]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.08-02.38.38:582][185]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.08-02.38.38:582][185]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.08-02.38.38:582][185]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.08-02.38.38:920][196]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.08-02.38.38:954][197]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.08-02.38.38:987][198]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.08-02.38.38:993][198]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.08-02.38.39:191][204]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.08-02.38.39:201][204]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.08-02.38.39:213][204]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.08-02.38.39:258][205]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.08-02.38.39:426][207]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.08-02.38.39:621][211]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.08-02.38.39:794][215]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.08-02.38.39:830][216]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.08-02.38.40:025][222]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.08-02.38.40:165][226]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.08-02.38.40:263][229]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.08-02.38.40:493][234]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.08-02.38.40:527][234]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.08-02.38.43:165][292]LogMaterial: Display: Missing cached shader map for material Trellis, compiling. 
+[2019.05.08-02.38.43:226][292]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.08-02.38.43:226][292]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.08-02.38.43:226][292]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.08-02.38.43:226][292]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.08-02.38.43:716][309]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.08-02.38.43:757][310]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.08-02.38.43:781][311]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.08-02.38.43:781][311]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.08-02.38.43:995][315]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.08-02.38.44:035][316]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.08-02.38.44:063][318]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.08-02.38.44:089][320]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.08-02.38.44:281][326]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.08-02.38.44:498][333]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.08-02.38.44:724][339]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.08-02.38.44:770][340]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.08-02.38.44:919][342]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.08-02.38.45:084][344]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.08-02.38.45:116][345]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.08-02.38.45:385][349]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.08-02.38.45:434][350]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.08-02.38.45:955][357]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.05.08-02.38.45:956][357]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.05.08-02.38.45:956][357]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.05.08-02.38.45:956][357]MaterialEditorStats: Texture samplers: 4/16
+[2019.05.08-02.38.45:956][357]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.05.08-02.38.45:956][357]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.05.08-02.39.01:024][653]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Query.cpp:146 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2019.05.08-02.39.01:024][653]LogD3D11RHI: [Aftermath] GDynamicRHI=0000017D0D180080, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.05.08-02.39.01:024][653]LogWindows: Windows GetLastError: The operation completed successfully. (0)
